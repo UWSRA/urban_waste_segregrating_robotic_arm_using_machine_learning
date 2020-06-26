@@ -1,0 +1,2643 @@
+filename,width,height,class,xmin,ymin,xmax,ymax
+img1.jpg,276,183,leaf,164,28,180,45
+img1.jpg,276,183,leaf,241,71,261,79
+img1.jpg,276,183,leaf,198,18,210,34
+img2.jpg,1128,1500,Fruit waste,4,1,1128,1248
+img8.jpg,1200,630,Fruit waste,243,5,928,618
+img3.jpg,900,900,Fruit waste,239,166,666,660
+img9.jpg,1300,866,Fruit waste,129,139,1069,634
+img6.jpg,785,800,Fruit waste,131,71,702,767
+img7.jpg,275,183,leaf,117,35,190,119
+img7.jpg,275,183,leaf,217,53,272,125
+img7.jpg,275,183,leaf,3,62,43,132
+img7.jpg,275,183,leaf,85,102,114,158
+img5.jpg,800,533,Fruit waste,140,109,655,429
+img4.jpg,259,194,leaf,61,148,81,170
+img4.jpg,259,194,leaf,218,119,238,146
+img4.jpg,259,194,leaf,240,56,253,69
+img4.jpg,259,194,leaf,5,109,37,138
+img10.jpg,1300,866,Fruit waste,84,253,881,766
+img11.jpg,1300,1012,Fruit waste,141,120,1186,901
+img13.jpg,1007,1300,Fruit waste,155,133,833,1167
+img14.jpg,1300,1300,Fruit waste,211,98,1089,1195
+img20.jpg,256,197,leaf,78,82,160,152
+img20.jpg,256,197,leaf,1,63,47,147
+img15.jpg,250,285,Fruit waste,29,1,223,271
+img17.jpg,1024,681,Fruit waste,246,90,718,540
+img16.jpg,214,320,Fruit waste,1,17,214,204
+img18.jpg,275,183,leaf,72,82,132,120
+img12.jpg,1300,898,Fruit waste,150,115,1145,716
+img19.jpg,282,179,leaf,154,69,238,159
+img19.jpg,282,179,leaf,34,4,120,119
+img21.jpg,3648,3762,Fruit waste,758,349,2834,3205
+img29.jpg,694,383,Fruit waste,159,1,606,380
+img23.jpg,720,810,Fruit waste,67,25,586,783
+img24.jpg,274,184,Fruit waste,39,45,273,184
+img28.jpg,1024,768,plain paper,180,76,845,631
+img22.jpg,683,1024,Fruit waste,138,349,585,853
+img30.jpg,1200,900,Fruit waste,1,27,1200,888
+img26.jpg,267,189,plain paper,49,63,266,182
+img27.jpg,450,468,plain paper,45,25,397,428
+img25.jpg,245,206,plain paper,25,23,217,167
+img31.jpg,694,383,Fruit waste,163,1,607,383
+img40.jpg,1135,1300,Fruit waste,161,69,998,1206
+img33.jpg,1296,728,Fruit waste,230,76,999,424
+img33.jpg,1296,728,Fruit waste,276,427,1125,614
+img36.jpg,615,418,Fruit waste,72,7,352,410
+img35.jpg,600,401,Fruit waste,250,27,551,361
+img34.jpg,1049,699,Fruit waste,131,132,518,534
+img34.jpg,1049,699,Fruit waste,538,79,1010,522
+img37.jpg,1024,1024,Fruit waste,338,199,690,823
+img38.jpg,428,450,Fruit waste,63,62,350,401
+img32.jpg,480,360,Fruit waste,1,82,473,250
+img39.jpg,926,1300,Fruit waste,114,110,874,1112
+img41.jpg,1010,1300,Fruit waste,176,223,869,1026
+img47.jpg,254,198,paper,18,17,123,163
+img47.jpg,254,198,plain paper,18,17,123,162
+img47.jpg,254,198,plain paper,132,16,237,162
+img46.jpg,240,210,paper,32,9,234,190
+img49.jpg,275,183,Fruit waste,137,29,245,156
+img44.jpg,800,719,Fruit waste,135,94,681,621
+img43.jpg,0,0,Fruit waste,37,12,267,262
+img42.jpg,728,772,Fruit waste,8,4,708,748
+img48.jpg,278,181,Fruit waste,157,28,259,135
+img45.jpg,800,857,Fruit waste,173,107,646,743
+img50.jpg,179,281,Fruit waste,49,79,116,125
+img51.jpg,275,184,Fruit waste,108,16,255,171
+img52.jpg,286,176,Fruit waste,30,59,132,162
+img55.jpg,299,169,Fruit waste,13,1,276,142
+img53.jpg,262,192,Fruit waste,70,42,164,133
+img57.jpg,273,185,Fruit waste,22,16,262,175
+img58.jpg,275,183,Fruit waste,10,4,273,105
+img54.jpg,265,190,Fruit waste,21,14,244,152
+img59.jpg,275,183,leaf,4,74,149,178
+img60.jpg,259,194,leaf,97,99,175,167
+img56.jpg,275,183,Fruit waste,13,44,256,149
+img61.jpg,275,183,leaf,42,9,202,92
+img67.jpg,262,192,leaf,140,134,162,154
+img67.jpg,262,192,leaf,149,22,160,34
+img70.jpg,225,224,Fruit waste,39,21,181,195
+img65.jpg,275,183,leaf,155,114,214,139
+img65.jpg,275,183,leaf,229,92,267,123
+img65.jpg,275,183,leaf,23,119,65,137
+img65.jpg,275,183,leaf,83,101,118,133
+img64.jpg,287,175,leaf,38,98,51,118
+img64.jpg,287,175,leaf,181,120,193,140
+img64.jpg,287,175,leaf,104,70,111,82
+img62.jpg,281,179,leaf,108,49,168,120
+img68.jpg,253,199,leaf,19,56,94,92
+img68.jpg,253,199,leaf,194,80,238,157
+img68.jpg,253,199,leaf,134,3,182,26
+img69.jpg,222,227,Fruit waste,39,21,199,216
+img66.jpg,191,264,leaf,142,212,171,229
+img66.jpg,191,264,leaf,41,208,68,226
+img66.jpg,191,264,leaf,15,3,43,12
+img66.jpg,191,264,leaf,91,203,106,222
+img63.jpg,262,192,leaf,55,81,158,173
+img71.jpg,218,231,Fruit waste,11,4,195,222
+img76.jpg,275,183,Fruit waste,61,14,212,175
+img79.jpg,272,185,Fruit waste,32,2,155,182
+img73.jpg,225,225,Fruit waste,61,41,166,165
+img75.jpg,265,190,Fruit waste,48,38,194,140
+img72.jpg,221,228,Fruit waste,20,23,194,205
+img80.jpg,900,540,Fruit waste,535,87,721,380
+img80.jpg,900,540,Fruit waste,89,95,388,404
+img77.jpg,225,225,Fruit waste,72,44,154,180
+img78.jpg,210,240,Fruit waste,17,1,186,230
+img74.jpg,184,274,Fruit waste,1,1,184,261
+img81.jpg,700,933,Fruit waste,99,222,614,732
+img89.jpg,540,720,leaf,25,132,411,530
+img87.jpg,1280,1059,leaf,444,90,808,967
+img82.jpg,1128,1390,Fruit waste,143,184,954,1159
+img83.jpg,626,417,Fruit waste,141,31,482,399
+img84.jpg,1300,866,leaf,363,257,1105,705
+img86.jpg,667,1000,leaf,131,169,596,776
+img88.jpg,1300,866,leaf,362,258,1108,691
+img90.jpg,2202,2232,leaf,126,401,2059,1704
+img85.jpg,1300,1390,leaf,321,119,937,678
+img91.jpg,222,227,leaf,3,14,218,194
+img92.jpg,390,280,leaf,69,89,308,185
+img100.jpg,0,0,leaf,242,39,414,406
+img100.jpg,0,0,leaf,32,30,206,407
+img99.jpg,260,782,leaf,20,6,182,720
+img94.jpg,1300,1294,leaf,65,22,1279,1260
+img98.jpg,512,222,leaf,8,34,410,181
+img95.jpg,1300,917,leaf,99,67,1202,839
+img97.jpg,1049,698,leaf,182,223,697,481
+img93.jpg,1367,1300,leaf,469,256,794,837
+img96.jpg,1300,988,leaf,65,18,1243,953
+img101.jpg,1305,2515,leaf,216,173,1043,2049
+img110.jpg,959,1280,leaf,112,45,832,753
+img105.jpg,197,255,leaf,35,10,160,244
+img107.jpg,275,183,leaf,7,5,203,136
+img104.jpg,400,400,leaf,5,3,397,385
+img106.jpg,275,183,leaf,135,37,215,116
+img106.jpg,275,183,leaf,216,28,257,119
+img103.jpg,0,0,leaf,30,39,832,622
+img108.jpg,259,194,leaf,123,35,173,93
+img108.jpg,259,194,leaf,122,94,171,143
+img108.jpg,259,194,leaf,85,92,122,138
+img108.jpg,259,194,leaf,90,34,123,92
+img102.jpg,500,500,leaf,143,1,482,331
+img109.jpg,194,259,leaf,8,39,189,214
+img111.jpg,259,194,leaf,84,43,146,105
+img111.jpg,259,194,leaf,145,58,190,132
+img119.jpg,2592,1944,leaf,563,367,1984,1853
+img115.jpg,290,174,leaf,29,85,109,113
+img115.jpg,290,174,leaf,124,82,148,174
+img115.jpg,290,174,leaf,150,63,193,152
+img115.jpg,290,174,leaf,219,21,265,108
+img115.jpg,290,174,leaf,60,31,131,82
+img114.jpg,225,225,leaf,125,99,198,212
+img114.jpg,225,225,leaf,131,1,215,99
+img112.jpg,500,300,leaf,10,14,448,237
+img117.jpg,275,183,leaf,50,3,187,168
+img118.jpg,300,168,leaf,86,54,161,116
+img118.jpg,300,168,leaf,194,51,256,109
+img118.jpg,300,168,leaf,58,3,105,31
+img118.jpg,300,168,leaf,78,117,157,168
+img113.jpg,1300,866,leaf,50,88,1217,763
+img116.jpg,570,737,leaf,102,33,465,705
+img120.jpg,245,206,leaf,94,45,152,174
+img120.jpg,245,206,leaf,153,65,238,198
+img121.jpg,225,225,leaf,92,48,213,155
+img121.jpg,225,225,leaf,91,157,215,218
+img121.jpg,225,225,leaf,7,9,91,208
+img124.jpg,1237,1077,leaf,130,46,1114,902
+img129.jpg,275,183,leaf,31,30,255,135
+img125.jpg,597,900,leaf,52,22,525,861
+img123.jpg,1014,1200,leaf,120,4,877,1008
+img127.jpg,275,183,leaf,154,6,270,80
+img127.jpg,275,183,leaf,5,100,85,181
+img127.jpg,275,183,leaf,129,119,266,180
+img127.jpg,275,183,leaf,4,4,142,76
+img126.jpg,225,225,leaf,35,12,190,209
+img128.jpg,1000,1046,leaf,754,343,925,657
+img128.jpg,1000,1046,leaf,276,382,397,636
+img128.jpg,1000,1046,leaf,439,76,586,287
+img128.jpg,1000,1046,leaf,627,40,715,318
+img128.jpg,1000,1046,leaf,434,354,708,644
+img128.jpg,1000,1046,leaf,746,696,926,927
+img128.jpg,1000,1046,leaf,304,722,472,919
+img128.jpg,1000,1046,leaf,534,698,689,942
+img128.jpg,1000,1046,leaf,756,46,922,294
+img128.jpg,1000,1046,leaf,66,26,419,318
+img128.jpg,1000,1046,leaf,104,388,236,659
+img128.jpg,1000,1046,leaf,98,705,242,923
+img130.jpg,275,184,leaf,139,8,227,146
+img130.jpg,275,184,leaf,49,13,130,134
+img122.jpg,846,566,leaf,179,74,603,307
+img131.jpg,577,577,leaf,69,31,552,546
+img136.jpg,262,193,leaf,106,24,234,118
+img139.jpg,275,183,leaf,129,86,263,173
+img137.jpg,1024,768,leaf,33,78,959,723
+img132.jpg,240,210,leaf,34,27,222,164
+img140.jpg,640,468,leaf,33,80,603,386
+img135.jpg,250,201,leaf,37,72,210,122
+img133.jpg,259,194,leaf,5,42,200,135
+img134.jpg,2347,2298,leaf,242,60,2127,2148
+img138.jpg,259,194,leaf,16,1,238,184
+img141.jpg,217,232,leaf,43,14,191,179
+img142.jpg,259,194,leaf,26,47,213,150
+img148.jpg,311,162,Fruit waste,56,1,279,162
+img143.jpg,225,225,leaf,17,123,43,158
+img143.jpg,225,225,leaf,179,122,209,159
+img143.jpg,225,225,leaf,73,176,94,216
+img143.jpg,225,225,leaf,121,178,156,214
+img143.jpg,225,225,leaf,71,66,97,103
+img143.jpg,225,225,leaf,181,63,214,104
+img146.jpg,1920,1080,leaf,952,94,1155,383
+img146.jpg,1920,1080,leaf,1061,386,1150,708
+img146.jpg,1920,1080,leaf,1156,360,1243,724
+img146.jpg,1920,1080,leaf,1244,341,1378,740
+img149.jpg,480,320,leaf,221,14,381,195
+img149.jpg,480,320,leaf,71,112,219,252
+img149.jpg,480,320,leaf,220,219,387,304
+img145.jpg,277,182,Fruit waste,1,23,260,181
+img144.jpg,201,251,leaf,73,45,140,138
+img147.jpg,282,178,Fruit waste,60,29,156,178
+img150.jpg,274,184,Fruit waste,41,45,256,146
+img151.jpg,311,162,Fruit waste,20,1,294,162
+img156.jpg,206,244,leaf,24,3,179,193
+img160.jpg,1000,1080,leaf,140,132,865,800
+img158.jpg,280,180,Fruit waste,11,7,226,170
+img153.jpg,1440,810,leaf,305,43,1328,794
+img155.jpg,199,254,Fruit waste,24,26,179,227
+img159.jpg,241,209,leaf,25,12,215,174
+img152.jpg,1200,800,leaf,542,223,1083,623
+img157.jpg,236,214,Fruit waste,22,16,217,196
+img154.jpg,1300,1390,leaf,80,159,1249,1118
+img161.jpg,512,384,paper,76,30,431,329
+img166.jpg,512,384,paper,58,32,406,369
+img162.jpg,512,384,paper,67,3,381,325
+img169.jpg,512,384,paper,57,17,427,353
+img163.jpg,512,384,paper,89,7,372,364
+img165.jpg,512,384,paper,93,92,390,335
+img164.jpg,512,384,paper,10,64,387,365
+img168.jpg,512,384,paper,36,101,378,288
+img170.jpg,512,384,paper,101,1,421,384
+img167.jpg,512,384,paper,7,65,471,348
+img171.jpg,512,384,paper,82,48,486,342
+img176.jpg,512,384,paper,90,117,431,313
+img177.jpg,512,384,paper,46,51,365,311
+img174.jpg,512,384,paper,58,42,433,343
+img178.jpg,512,384,paper,82,40,435,297
+img180.jpg,512,384,paper,10,4,481,349
+img172.jpg,512,384,paper,244,3,425,235
+img175.jpg,512,384,paper,107,67,360,264
+img179.jpg,512,384,paper,42,7,474,371
+img173.jpg,512,384,paper,36,69,420,297
+img181.jpg,512,384,paper,39,78,453,331
+img186.jpg,512,384,paper,87,81,384,288
+img182.jpg,512,384,paper,26,49,402,377
+img190.jpg,512,384,paper,78,44,412,355
+img187.jpg,512,384,paper,106,36,378,312
+img185.jpg,512,384,paper,64,108,408,268
+img184.jpg,512,384,paper,124,117,376,298
+img183.jpg,512,384,paper,75,60,435,317
+img188.jpg,512,384,paper,151,48,327,327
+img189.jpg,512,384,paper,38,57,390,343
+img191.jpg,512,384,paper,50,119,368,213
+img196.jpg,512,384,paper,63,79,332,292
+img198.jpg,512,384,paper,151,112,382,281
+img194.jpg,512,384,paper,83,54,415,330
+img197.jpg,512,384,paper,147,60,347,237
+img200.jpg,512,384,paper,115,94,413,296
+img193.jpg,512,384,paper,99,22,348,334
+img199.jpg,512,384,paper,17,73,370,308
+img192.jpg,512,384,paper,128,117,356,266
+img195.jpg,512,384,paper,84,163,318,336
+img201.jpg,275,183,paper,201,72,241,105
+img201.jpg,275,183,paper,182,130,213,163
+img201.jpg,275,183,paper,221,110,253,146
+img201.jpg,275,183,paper,251,59,275,95
+img201.jpg,275,183,paper,36,29,162,148
+img208.jpg,262,192,paper,111,21,258,163
+img206.jpg,275,183,paper,13,120,45,148
+img206.jpg,275,183,paper,159,46,191,79
+img206.jpg,275,183,paper,139,6,172,39
+img209.jpg,248,203,paper,172,73,248,128
+img207.jpg,248,203,paper,118,1,161,55
+img207.jpg,248,203,paper,215,44,237,91
+img202.jpg,262,193,paper,170,148,198,174
+img202.jpg,262,193,paper,50,111,91,145
+img202.jpg,262,193,paper,131,148,164,176
+img202.jpg,262,193,paper,86,109,135,159
+img202.jpg,262,193,paper,134,126,168,149
+img202.jpg,262,193,paper,196,131,225,155
+img202.jpg,262,193,paper,157,17,185,46
+img202.jpg,262,193,paper,130,41,149,67
+img202.jpg,262,193,paper,206,78,233,102
+img202.jpg,262,193,paper,121,67,227,128
+img202.jpg,262,193,paper,40,10,114,79
+img205.jpg,275,183,paper,119,39,175,93
+img205.jpg,275,183,paper,105,95,166,182
+img205.jpg,275,183,paper,178,5,247,59
+img205.jpg,275,183,paper,177,65,275,180
+img204.jpg,262,192,paper,79,125,118,163
+img204.jpg,262,192,paper,124,120,153,158
+img204.jpg,262,192,paper,151,117,190,155
+img204.jpg,262,192,paper,46,71,90,118
+img204.jpg,262,192,paper,89,76,134,125
+img204.jpg,262,192,paper,81,27,128,89
+img204.jpg,262,192,paper,131,34,190,118
+img204.jpg,262,192,paper,198,8,262,104
+img203.jpg,265,190,paper,149,59,183,87
+img203.jpg,265,190,paper,210,85,241,114
+img203.jpg,265,190,paper,141,96,184,140
+img203.jpg,265,190,paper,13,18,145,130
+img210.jpg,288,175,paper,12,122,83,159
+img210.jpg,288,175,paper,117,103,169,166
+img210.jpg,288,175,paper,185,121,252,171
+img210.jpg,288,175,paper,233,90,273,139
+img210.jpg,288,175,paper,40,78,89,126
+img211.jpg,276,183,paper,83,105,120,145
+img211.jpg,276,183,paper,8,65,58,114
+img211.jpg,276,183,paper,43,36,83,65
+img219.jpg,192,262,paper,93,149,139,192
+img219.jpg,192,262,paper,51,82,116,149
+img219.jpg,192,262,paper,57,17,112,78
+img216.jpg,275,183,paper,72,123,109,161
+img216.jpg,275,183,paper,120,140,157,174
+img216.jpg,275,183,paper,170,127,210,167
+img216.jpg,275,183,paper,190,83,234,124
+img216.jpg,275,183,paper,183,41,229,79
+img216.jpg,275,183,paper,153,7,195,44
+img216.jpg,275,183,paper,52,68,96,112
+img216.jpg,275,183,paper,64,22,110,62
+img216.jpg,275,183,paper,111,2,150,40
+img218.jpg,275,183,paper,69,22,119,70
+img218.jpg,275,183,paper,22,64,75,111
+img218.jpg,275,183,paper,60,109,108,154
+img218.jpg,275,183,plain paper,137,21,237,168
+img212.jpg,275,183,paper,44,83,117,146
+img217.jpg,275,183,paper,155,90,191,129
+img217.jpg,275,183,paper,185,116,223,154
+img217.jpg,275,183,paper,184,71,219,110
+img217.jpg,275,183,paper,146,2,188,46
+img217.jpg,275,183,paper,191,7,227,53
+img217.jpg,275,183,paper,160,41,204,76
+img217.jpg,275,183,paper,228,63,273,99
+img217.jpg,275,183,paper,227,21,259,62
+img214.jpg,275,183,paper,142,102,203,160
+img214.jpg,275,183,paper,39,110,99,165
+img214.jpg,275,183,paper,12,87,58,126
+img220.jpg,275,183,paper,30,26,94,80
+img213.jpg,262,193,paper,38,71,84,115
+img213.jpg,262,193,paper,54,132,105,168
+img213.jpg,262,193,paper,216,103,255,149
+img215.jpg,275,183,paper,142,83,176,118
+img215.jpg,275,183,paper,102,67,138,115
+img215.jpg,275,183,paper,179,82,209,121
+img215.jpg,275,183,paper,210,72,275,108
+img221.jpg,196,257,paper,14,135,55,180
+img221.jpg,196,257,paper,2,91,42,133
+img221.jpg,196,257,paper,17,49,62,89
+img221.jpg,196,257,paper,140,79,189,118
+img221.jpg,196,257,paper,115,33,151,80
+img221.jpg,196,257,paper,149,26,189,64
+img230.jpg,263,192,paper,54,50,95,78
+img230.jpg,263,192,paper,102,12,130,50
+img230.jpg,263,192,paper,180,56,200,87
+img226.jpg,260,194,paper,53,62,260,124
+img223.jpg,220,229,paper,11,76,78,150
+img229.jpg,275,183,paper,15,136,44,162
+img229.jpg,275,183,paper,52,96,80,121
+img229.jpg,275,183,paper,19,87,46,114
+img229.jpg,275,183,paper,39,63,68,92
+img229.jpg,275,183,paper,9,53,36,81
+img229.jpg,275,183,paper,115,42,147,83
+img229.jpg,275,183,paper,180,21,209,51
+img229.jpg,275,183,paper,123,1,154,24
+img227.jpg,225,225,paper,66,31,152,120
+img225.jpg,275,183,paper,178,24,234,81
+img225.jpg,275,183,paper,179,101,215,141
+img225.jpg,275,183,paper,217,87,261,137
+img225.jpg,275,183,plain paper,39,12,153,169
+img228.jpg,275,183,paper,162,67,221,133
+img228.jpg,275,183,paper,14,32,65,84
+img228.jpg,275,183,paper,81,13,118,48
+img228.jpg,275,183,paper,39,2,76,39
+img224.jpg,275,183,paper,5,145,74,182
+img224.jpg,275,183,paper,1,92,53,136
+img224.jpg,275,183,paper,37,63,103,109
+img224.jpg,275,183,paper,72,1,125,32
+img224.jpg,275,183,paper,9,2,68,36
+img224.jpg,275,183,plain paper,214,4,270,165
+img222.jpg,275,183,paper,17,39,90,93
+img222.jpg,275,183,paper,166,2,268,79
+img222.jpg,275,183,plain paper,113,100,221,151
+img231.jpg,275,183,paper,39,118,80,157
+img231.jpg,275,183,paper,92,104,145,146
+img238.jpg,275,183,paper,33,29,105,87
+img238.jpg,275,183,paper,196,51,275,125
+img238.jpg,275,183,paper,95,1,156,42
+img238.jpg,275,183,paper,164,1,233,51
+img238.jpg,275,183,plain paper,61,105,218,171
+img239.jpg,262,192,paper,195,11,258,79
+img239.jpg,262,192,paper,130,1,196,49
+img239.jpg,262,192,plain paper,32,70,262,175
+img233.jpg,260,194,paper,194,75,260,143
+img233.jpg,260,194,paper,175,10,237,73
+img233.jpg,260,194,paper,110,7,172,58
+img233.jpg,260,194,paper,50,33,119,97
+img233.jpg,260,194,plain paper,73,111,213,172
+img236.jpg,183,275,paper,114,6,168,59
+img236.jpg,183,275,paper,123,61,183,115
+img236.jpg,183,275,plain paper,19,99,161,269
+img237.jpg,264,191,paper,185,29,217,62
+img237.jpg,264,191,paper,187,127,215,164
+img237.jpg,264,191,paper,232,113,264,148
+img237.jpg,264,191,plain paper,67,61,131,139
+img241.jpg,512,384,paper,67,38,397,348
+img232.jpg,275,183,paper,107,83,148,124
+img232.jpg,275,183,paper,168,89,222,128
+img234.jpg,265,190,paper,144,3,244,90
+img234.jpg,265,190,paper,70,34,158,120
+img235.jpg,275,183,paper,94,26,160,89
+img235.jpg,275,183,paper,1,66,42,113
+img235.jpg,275,183,paper,9,132,58,183
+img235.jpg,275,183,paper,77,140,141,183
+img242.jpg,500,331,Fruit waste,6,119,90,185
+img242.jpg,500,331,Fruit waste,234,172,347,284
+img242.jpg,500,331,Fruit waste,277,83,367,168
+img242.jpg,500,331,Fruit waste,2,187,82,226
+img248.jpg,1300,866,Fruit waste,443,127,1300,797
+img250.jpg,1300,1146,Fruit waste,396,542,772,867
+img250.jpg,1300,1146,Fruit waste,846,720,963,794
+img245.jpg,1280,853,Fruit waste,135,131,263,229
+img245.jpg,1280,853,Fruit waste,288,85,424,185
+img245.jpg,1280,853,Fruit waste,530,151,576,204
+img245.jpg,1280,853,Fruit waste,554,259,624,333
+img245.jpg,1280,853,Fruit waste,663,93,764,167
+img245.jpg,1280,853,Fruit waste,764,127,831,197
+img245.jpg,1280,853,Fruit waste,1053,73,1159,165
+img245.jpg,1280,853,Fruit waste,944,252,1120,369
+img249.jpg,1300,878,Fruit waste,720,150,1015,417
+img249.jpg,1300,878,Fruit waste,432,319,737,636
+img243.jpg,500,334,Fruit waste,329,130,377,185
+img243.jpg,500,334,Fruit waste,313,186,373,256
+img243.jpg,500,334,Fruit waste,275,131,313,191
+img243.jpg,500,334,Fruit waste,272,192,312,231
+img243.jpg,500,334,Fruit waste,378,129,419,208
+img251.jpg,1300,866,Fruit waste,775,680,924,774
+img251.jpg,1300,866,Fruit waste,624,679,771,792
+img251.jpg,1300,866,Fruit waste,471,720,610,809
+img251.jpg,1300,866,Fruit waste,546,622,679,698
+img251.jpg,1300,866,Fruit waste,164,696,316,797
+img251.jpg,1300,866,Fruit waste,15,618,149,726
+img251.jpg,1300,866,Fruit waste,300,642,433,731
+img251.jpg,1300,866,Fruit waste,213,621,324,697
+img251.jpg,1300,866,Fruit waste,503,621,551,690
+img244.jpg,500,334,Fruit waste,142,201,245,266
+img244.jpg,500,334,Fruit waste,66,122,262,200
+img246.jpg,1300,867,Fruit waste,90,11,567,481
+img247.jpg,1300,702,Fruit waste,56,347,290,650
+img247.jpg,1300,702,Fruit waste,333,470,547,659
+img247.jpg,1300,702,Fruit waste,358,339,544,464
+img247.jpg,1300,702,Fruit waste,688,370,869,547
+img247.jpg,1300,702,Fruit waste,870,380,928,445
+img247.jpg,1300,702,Fruit waste,877,478,960,574
+img247.jpg,1300,702,Fruit waste,197,18,494,331
+img247.jpg,1300,702,Fruit waste,498,256,667,371
+img247.jpg,1300,702,Fruit waste,679,222,771,301
+img247.jpg,1300,702,Fruit waste,774,240,878,321
+img247.jpg,1300,702,Fruit waste,550,185,727,255
+img247.jpg,1300,702,Fruit waste,537,89,622,140
+img247.jpg,1300,702,Fruit waste,578,135,654,184
+img247.jpg,1300,702,Fruit waste,126,267,180,319
+img247.jpg,1300,702,Fruit waste,719,312,810,351
+img252.jpg,1300,866,Fruit waste,778,192,1032,443
+img252.jpg,1300,866,Fruit waste,238,153,488,416
+img252.jpg,1300,866,Fruit waste,4,192,236,456
+img252.jpg,1300,866,Fruit waste,502,271,766,457
+img252.jpg,1300,866,Fruit waste,472,30,730,267
+img252.jpg,1300,866,Fruit waste,969,72,1246,327
+img252.jpg,1300,866,Fruit waste,1049,329,1300,526
+img252.jpg,1300,866,Fruit waste,138,1,406,148
+img252.jpg,1300,866,Fruit waste,4,7,146,192
+img257.jpg,500,690,Fruit waste,68,49,242,287
+img257.jpg,500,690,Fruit waste,252,117,491,313
+img261.jpg,866,1390,Fruit waste,88,935,438,1200
+img261.jpg,866,1390,Fruit waste,4,632,406,910
+img253.jpg,1300,866,Fruit waste,677,605,988,729
+img253.jpg,1300,866,Fruit waste,361,486,675,795
+img253.jpg,1300,866,Fruit waste,59,310,364,762
+img258.jpg,1300,932,Fruit waste,456,305,727,501
+img258.jpg,1300,932,Fruit waste,134,64,386,321
+img258.jpg,1300,932,Fruit waste,950,166,1132,347
+img255.jpg,450,320,Fruit waste,233,211,297,257
+img255.jpg,450,320,Fruit waste,284,155,329,226
+img259.jpg,600,420,Fruit waste,276,257,370,355
+img259.jpg,600,420,Fruit waste,372,249,474,352
+img259.jpg,600,420,Fruit waste,260,65,366,185
+img259.jpg,600,420,Fruit waste,370,67,460,176
+img259.jpg,600,420,Fruit waste,290,211,371,257
+img259.jpg,600,420,Fruit waste,373,194,464,247
+img260.jpg,1200,800,Fruit waste,442,340,604,569
+img260.jpg,1200,800,Fruit waste,607,269,769,580
+img260.jpg,1200,800,Fruit waste,441,262,604,338
+img256.jpg,626,417,Fruit waste,384,298,481,370
+img256.jpg,626,417,Fruit waste,429,209,518,318
+img254.jpg,866,1300,Fruit waste,183,738,688,1180
+img254.jpg,866,1300,Fruit waste,159,226,693,729
+img262.jpg,866,1390,Fruit waste,81,618,456,1019
+img267.jpg,1600,1164,Fruit waste,402,34,797,518
+img267.jpg,1600,1164,Fruit waste,804,173,1055,571
+img267.jpg,1600,1164,Fruit waste,173,543,653,992
+img268.jpg,1067,1700,Fruit waste,3,1063,152,1264
+img266.jpg,1300,956,Fruit waste,161,236,531,606
+img266.jpg,1300,956,Fruit waste,829,242,1194,615
+img270.jpg,1300,956,Fruit waste,408,367,1006,729
+img264.jpg,1300,956,Fruit waste,329,415,502,657
+img264.jpg,1300,956,Fruit waste,508,395,830,661
+img264.jpg,1300,956,Fruit waste,160,171,322,535
+img264.jpg,1300,956,Fruit waste,326,155,502,418
+img264.jpg,1300,956,Fruit waste,504,190,658,391
+img269.jpg,1472,1800,Fruit waste,766,761,1314,982
+img271.jpg,1300,1065,Fruit waste,98,78,453,510
+img271.jpg,1300,1065,Fruit waste,451,264,711,615
+img271.jpg,1300,1065,Fruit waste,713,225,891,542
+img271.jpg,1300,1065,Fruit waste,889,257,1233,496
+img271.jpg,1300,1065,Fruit waste,345,618,740,860
+img263.jpg,1300,991,Fruit waste,839,422,1154,698
+img263.jpg,1300,991,Fruit waste,304,363,492,615
+img263.jpg,1300,991,Fruit waste,499,350,678,629
+img263.jpg,1300,991,Fruit waste,683,327,834,671
+img265.jpg,1300,888,Fruit waste,529,98,1252,490
+img265.jpg,1300,888,Fruit waste,9,4,528,333
+img265.jpg,1300,888,Fruit waste,580,495,1095,658
+img272.jpg,1300,1065,Fruit waste,70,259,410,497
+img272.jpg,1300,1065,Fruit waste,413,215,710,543
+img272.jpg,1300,1065,Fruit waste,845,78,1200,511
+img272.jpg,1300,1065,Fruit waste,556,542,960,864
+img272.jpg,1300,1065,Fruit waste,715,260,847,541
+img281.jpg,262,193,Fruit waste,36,31,86,84
+img281.jpg,262,193,Fruit waste,34,85,87,133
+img281.jpg,262,193,Fruit waste,88,23,157,90
+img281.jpg,262,193,Fruit waste,112,92,169,142
+img281.jpg,262,193,Fruit waste,160,49,215,113
+img275.jpg,275,183,Fruit waste,116,129,210,158
+img275.jpg,275,183,Fruit waste,85,139,149,166
+img275.jpg,275,183,Fruit waste,13,63,122,161
+img276.jpg,228,221,Fruit waste,10,20,218,200
+img277.jpg,183,275,Fruit waste,51,203,108,246
+img277.jpg,183,275,Fruit waste,82,155,164,204
+img277.jpg,183,275,Fruit waste,20,147,81,220
+img277.jpg,183,275,Fruit waste,63,100,115,144
+img277.jpg,183,275,Fruit waste,9,75,61,148
+img277.jpg,183,275,Fruit waste,128,81,183,148
+img280.jpg,301,167,Fruit waste,163,47,231,138
+img280.jpg,301,167,Fruit waste,231,92,278,127
+img280.jpg,301,167,Fruit waste,65,73,121,123
+img280.jpg,301,167,Fruit waste,21,106,105,136
+img280.jpg,301,167,Fruit waste,121,27,162,87
+img280.jpg,301,167,Fruit waste,2,70,66,106
+img280.jpg,301,167,Fruit waste,73,26,121,74
+img280.jpg,301,167,Fruit waste,162,18,216,48
+img280.jpg,301,167,Fruit waste,230,76,253,92
+img280.jpg,301,167,Fruit waste,278,93,301,109
+img274.jpg,275,183,Fruit waste,25,99,90,157
+img274.jpg,275,183,Fruit waste,91,100,144,160
+img274.jpg,275,183,Fruit waste,144,146,212,170
+img274.jpg,275,183,Fruit waste,162,80,240,147
+img274.jpg,275,183,Fruit waste,213,148,237,162
+img274.jpg,275,183,Fruit waste,37,8,87,48
+img274.jpg,275,183,Fruit waste,132,1,177,27
+img274.jpg,275,183,Fruit waste,2,8,37,47
+img273.jpg,275,183,Fruit waste,135,115,217,172
+img273.jpg,275,183,Fruit waste,1,142,39,175
+img273.jpg,275,183,Fruit waste,39,155,135,174
+img273.jpg,275,183,Fruit waste,218,130,264,163
+img278.jpg,318,159,Fruit waste,209,25,250,66
+img278.jpg,318,159,Fruit waste,286,27,318,77
+img278.jpg,318,159,Fruit waste,256,74,296,114
+img278.jpg,318,159,Fruit waste,244,129,285,159
+img278.jpg,318,159,Fruit waste,190,76,230,115
+img278.jpg,318,159,Fruit waste,131,15,151,37
+img278.jpg,318,159,Fruit waste,169,21,204,55
+img278.jpg,318,159,Fruit waste,186,1,222,13
+img279.jpg,262,192,Fruit waste,30,32,127,80
+img279.jpg,262,192,Fruit waste,24,81,78,109
+img279.jpg,262,192,Fruit waste,126,10,215,82
+img279.jpg,262,192,Fruit waste,130,89,165,132
+img279.jpg,262,192,Fruit waste,80,86,131,133
+img279.jpg,262,192,Fruit waste,166,82,210,126
+img279.jpg,262,192,Fruit waste,9,53,30,80
+img282.jpg,275,183,Fruit waste,133,49,235,152
+img282.jpg,275,183,Fruit waste,41,63,132,146
+img282.jpg,275,183,Fruit waste,1,91,40,141
+img282.jpg,275,183,Fruit waste,235,69,272,122
+img288.jpg,183,275,Fruit waste,36,46,144,156
+img288.jpg,183,275,Fruit waste,39,157,145,251
+img287.jpg,248,203,Fruit waste,13,42,81,107
+img287.jpg,248,203,Fruit waste,81,41,164,117
+img287.jpg,248,203,Fruit waste,166,14,230,102
+img287.jpg,248,203,Fruit waste,102,118,184,166
+img286.jpg,259,194,Fruit waste,87,28,225,144
+img286.jpg,259,194,Fruit waste,24,87,87,152
+img284.jpg,268,188,Fruit waste,167,60,253,166
+img284.jpg,268,188,Fruit waste,195,91,253,124
+img284.jpg,268,188,Fruit waste,18,37,144,137
+img284.jpg,268,188,Fruit waste,146,48,206,86
+img291.jpg,275,183,Fruit waste,128,120,195,180
+img291.jpg,275,183,Fruit waste,60,82,109,148
+img291.jpg,275,183,Fruit waste,99,57,142,84
+img291.jpg,275,183,Fruit waste,168,70,198,121
+img291.jpg,275,183,Fruit waste,1,82,56,150
+img291.jpg,275,183,Fruit waste,10,8,67,58
+img291.jpg,275,183,Fruit waste,100,1,140,29
+img291.jpg,275,183,Fruit waste,97,31,135,55
+img291.jpg,275,183,Fruit waste,241,108,275,181
+img291.jpg,275,183,Fruit waste,199,100,241,138
+img291.jpg,275,183,Fruit waste,111,85,169,122
+img283.jpg,257,196,Fruit waste,61,72,104,122
+img283.jpg,257,196,Fruit waste,105,69,137,125
+img283.jpg,257,196,Fruit waste,137,63,171,130
+img283.jpg,257,196,Fruit waste,172,69,229,137
+img283.jpg,257,196,Fruit waste,2,3,133,72
+img283.jpg,257,196,Fruit waste,134,4,252,66
+img283.jpg,257,196,Fruit waste,1,72,61,99
+img285.jpg,275,183,Fruit waste,108,21,275,182
+img285.jpg,275,183,Fruit waste,1,4,105,180
+img290.jpg,183,275,Fruit waste,35,46,145,153
+img290.jpg,183,275,Fruit waste,37,154,145,250
+img289.jpg,264,191,Fruit waste,51,67,107,118
+img289.jpg,264,191,Fruit waste,111,109,146,152
+img289.jpg,264,191,Fruit waste,53,127,100,146
+img289.jpg,264,191,Fruit waste,65,151,112,176
+img289.jpg,264,191,Fruit waste,156,139,217,175
+img289.jpg,264,191,Fruit waste,181,1,249,63
+img289.jpg,264,191,Fruit waste,126,4,181,69
+img289.jpg,264,191,Fruit waste,175,64,243,112
+img289.jpg,264,191,Fruit waste,231,96,264,152
+img289.jpg,264,191,Fruit waste,239,41,264,101
+img292.jpg,262,192,Fruit waste,32,47,106,119
+img292.jpg,262,192,Fruit waste,167,48,239,122
+img296.jpg,248,203,Fruit waste,20,1,78,55
+img296.jpg,248,203,Fruit waste,61,53,113,109
+img296.jpg,248,203,Fruit waste,18,109,78,167
+img296.jpg,248,203,Fruit waste,110,86,163,138
+img296.jpg,248,203,Fruit waste,99,1,158,60
+img296.jpg,248,203,Fruit waste,157,29,215,86
+img296.jpg,248,203,Fruit waste,164,125,223,184
+img294.jpg,275,183,Fruit waste,58,105,133,157
+img294.jpg,275,183,Fruit waste,156,85,220,130
+img294.jpg,275,183,Fruit waste,62,44,114,105
+img294.jpg,275,183,Fruit waste,42,119,57,154
+img294.jpg,275,183,Fruit waste,113,54,155,106
+img294.jpg,275,183,Fruit waste,156,38,190,86
+img294.jpg,275,183,Fruit waste,191,63,203,86
+img294.jpg,275,183,Fruit waste,26,95,58,115
+img299.jpg,275,183,Fruit waste,91,64,119,77
+img299.jpg,275,183,Fruit waste,127,37,154,67
+img299.jpg,275,183,Fruit waste,219,160,249,183
+img299.jpg,275,183,Fruit waste,215,47,262,84
+img299.jpg,275,183,Fruit waste,68,87,97,108
+img299.jpg,275,183,Fruit waste,44,114,71,148
+img299.jpg,275,183,Fruit waste,103,82,122,91
+img299.jpg,275,183,Fruit waste,99,93,114,113
+img299.jpg,275,183,Fruit waste,124,68,145,101
+img299.jpg,275,183,Fruit waste,71,108,96,137
+img299.jpg,275,183,Fruit waste,94,124,120,151
+img299.jpg,275,183,Fruit waste,146,71,154,85
+img299.jpg,275,183,Fruit waste,146,78,191,128
+img299.jpg,275,183,Fruit waste,249,104,272,138
+img299.jpg,275,183,Fruit waste,234,120,267,148
+img301.jpg,225,225,Fruit waste,1,68,51,145
+img301.jpg,225,225,Fruit waste,48,88,133,176
+img301.jpg,225,225,Fruit waste,137,66,219,155
+img301.jpg,225,225,Fruit waste,111,162,184,225
+img301.jpg,225,225,Fruit waste,70,1,143,75
+img301.jpg,225,225,Fruit waste,210,22,225,79
+img293.jpg,183,275,Fruit waste,32,77,102,142
+img293.jpg,183,275,Fruit waste,68,135,145,185
+img293.jpg,183,275,Fruit waste,1,126,68,185
+img297.jpg,255,197,Fruit waste,20,26,48,51
+img297.jpg,255,197,Fruit waste,14,82,45,105
+img297.jpg,255,197,Fruit waste,199,77,237,108
+img297.jpg,255,197,Fruit waste,207,131,238,162
+img297.jpg,255,197,Fruit waste,87,77,112,100
+img297.jpg,255,197,Fruit waste,19,132,53,166
+img297.jpg,255,197,Fruit waste,139,27,166,50
+img297.jpg,255,197,Fruit waste,139,69,172,103
+img297.jpg,255,197,Fruit waste,139,130,169,158
+img297.jpg,255,197,Fruit waste,70,119,113,162
+img298.jpg,290,174,Fruit waste,214,54,290,158
+img298.jpg,290,174,Fruit waste,39,1,215,172
+img300.jpg,225,225,Fruit waste,1,30,94,179
+img300.jpg,225,225,Fruit waste,96,69,225,223
+img295.jpg,263,192,Fruit waste,1,37,47,92
+img295.jpg,263,192,Fruit waste,49,30,102,83
+img295.jpg,263,192,Fruit waste,96,7,146,55
+img295.jpg,263,192,Fruit waste,102,56,152,92
+img295.jpg,263,192,Fruit waste,155,39,210,90
+img295.jpg,263,192,Fruit waste,31,1,81,36
+img295.jpg,263,192,Fruit waste,1,1,30,37
+img295.jpg,263,192,Fruit waste,147,1,180,39
+img295.jpg,263,192,Fruit waste,180,2,236,39
+img295.jpg,263,192,Fruit waste,212,39,250,70
+img295.jpg,263,192,Fruit waste,214,71,263,108
+img302.jpg,231,218,Fruit waste,20,78,117,130
+img302.jpg,231,218,Fruit waste,48,1,123,32
+img302.jpg,231,218,Fruit waste,125,1,207,101
+img302.jpg,231,218,Fruit waste,176,46,231,167
+img302.jpg,231,218,Fruit waste,1,130,119,197
+img302.jpg,231,218,Fruit waste,128,152,231,200
+img302.jpg,231,218,Fruit waste,1,3,72,99
+img302.jpg,231,218,Fruit waste,101,45,151,96
+img303.jpg,275,183,Fruit waste,73,43,149,71
+img303.jpg,275,183,Fruit waste,108,72,152,151
+img303.jpg,275,183,Fruit waste,94,89,107,139
+img303.jpg,275,183,Fruit waste,177,20,233,96
+img304.jpg,203,248,Fruit waste,105,96,176,142
+img304.jpg,203,248,Fruit waste,149,98,201,158
+img305.jpg,276,183,Fruit waste,43,99,132,183
+img305.jpg,276,183,Fruit waste,191,18,264,89
+img305.jpg,276,183,Fruit waste,78,3,191,115
+img305.jpg,276,183,Fruit waste,1,1,76,143
+img305.jpg,276,183,Fruit waste,57,1,136,16
+img306.jpg,308,163,Fruit waste,39,105,90,153
+img306.jpg,308,163,Fruit waste,14,103,39,148
+img311.jpg,275,183,Fruit waste,169,91,229,161
+img311.jpg,275,183,Fruit waste,161,2,275,108
+img310.jpg,317,159,Fruit waste,15,120,129,159
+img310.jpg,317,159,Fruit waste,79,92,126,120
+img310.jpg,317,159,Fruit waste,129,67,189,159
+img310.jpg,317,159,Fruit waste,177,1,306,140
+img307.jpg,275,183,Fruit waste,40,107,121,169
+img307.jpg,275,183,Fruit waste,121,113,214,162
+img309.jpg,275,183,Fruit waste,130,89,160,118
+img309.jpg,275,183,Fruit waste,147,100,179,131
+img309.jpg,275,183,Fruit waste,92,127,126,160
+img309.jpg,275,183,Fruit waste,105,89,130,123
+img309.jpg,275,183,Fruit waste,55,120,89,152
+img309.jpg,275,183,Fruit waste,105,58,138,88
+img309.jpg,275,183,Fruit waste,138,64,167,90
+img309.jpg,275,183,Fruit waste,61,34,96,66
+img309.jpg,275,183,Fruit waste,98,30,125,58
+img309.jpg,275,183,Fruit waste,126,35,157,64
+img309.jpg,275,183,Fruit waste,78,70,107,99
+img309.jpg,275,183,Fruit waste,37,105,75,123
+img309.jpg,275,183,Fruit waste,39,58,72,89
+img308.jpg,261,193,Fruit waste,51,66,110,127
+img308.jpg,261,193,Fruit waste,113,93,165,146
+img308.jpg,261,193,Fruit waste,157,44,211,101
+img308.jpg,261,193,Fruit waste,92,21,152,79
+img312.jpg,276,183,Fruit waste,128,97,193,158
+img312.jpg,276,183,Fruit waste,1,64,48,110
+img312.jpg,276,183,Fruit waste,1,137,26,171
+img312.jpg,276,183,Fruit waste,1,111,46,129
+img312.jpg,276,183,Fruit waste,152,44,202,94
+img319.jpg,267,189,Fruit waste,16,80,61,119
+img319.jpg,267,189,Fruit waste,1,112,43,144
+img319.jpg,267,189,Fruit waste,1,139,41,168
+img319.jpg,267,189,Fruit waste,2,167,41,178
+img319.jpg,267,189,Fruit waste,62,122,112,155
+img320.jpg,272,185,Fruit waste,110,20,261,103
+img320.jpg,272,185,Fruit waste,1,80,114,167
+img320.jpg,272,185,Fruit waste,1,1,109,71
+img320.jpg,272,185,Fruit waste,127,105,207,139
+img320.jpg,272,185,Fruit waste,207,104,272,167
+img320.jpg,272,185,Fruit waste,116,140,172,166
+img320.jpg,272,185,Fruit waste,173,141,206,166
+img318.jpg,275,183,Fruit waste,1,10,76,104
+img318.jpg,275,183,Fruit waste,47,85,97,183
+img318.jpg,275,183,Fruit waste,93,45,223,183
+img318.jpg,275,183,Fruit waste,76,1,117,45
+img318.jpg,275,183,Fruit waste,186,1,255,45
+img318.jpg,275,183,Fruit waste,226,46,275,110
+img317.jpg,311,162,Fruit waste,165,26,297,147
+img317.jpg,311,162,Fruit waste,14,16,152,150
+img315.jpg,268,188,Fruit waste,13,18,148,152
+img315.jpg,268,188,Fruit waste,148,17,209,134
+img314.jpg,275,183,Fruit waste,110,114,128,139
+img314.jpg,275,183,Fruit waste,138,117,161,135
+img314.jpg,275,183,Fruit waste,152,103,171,123
+img314.jpg,275,183,Fruit waste,171,108,207,142
+img314.jpg,275,183,Fruit waste,132,74,155,115
+img314.jpg,275,183,Fruit waste,176,70,208,101
+img314.jpg,275,183,Fruit waste,205,72,232,112
+img314.jpg,275,183,Fruit waste,155,72,177,105
+img321.jpg,225,225,Fruit waste,24,99,67,142
+img321.jpg,225,225,Fruit waste,63,56,99,97
+img321.jpg,225,225,Fruit waste,92,101,128,136
+img321.jpg,225,225,Fruit waste,121,143,161,194
+img313.jpg,275,183,Fruit waste,157,52,234,125
+img313.jpg,275,183,Fruit waste,190,126,237,173
+img313.jpg,275,183,Fruit waste,185,1,275,50
+img313.jpg,275,183,Fruit waste,135,112,157,153
+img313.jpg,275,183,Fruit waste,235,79,262,127
+img316.jpg,275,183,Fruit waste,1,107,65,183
+img316.jpg,275,183,Fruit waste,51,1,135,182
+img316.jpg,275,183,Fruit waste,135,1,227,182
+img316.jpg,275,183,Fruit waste,223,55,275,181
+img322.jpg,183,275,Fruit waste,20,100,45,127
+img322.jpg,183,275,Fruit waste,40,116,67,139
+img322.jpg,183,275,Fruit waste,34,174,62,200
+img322.jpg,183,275,Fruit waste,52,190,86,218
+img322.jpg,183,275,Fruit waste,49,43,71,62
+img322.jpg,183,275,Fruit waste,98,116,123,132
+img322.jpg,183,275,Fruit waste,143,87,161,107
+img322.jpg,183,275,Fruit waste,98,117,122,132
+img322.jpg,183,275,Fruit waste,160,106,183,126
+img322.jpg,183,275,Fruit waste,56,17,82,42
+img324.jpg,275,183,Fruit waste,3,135,71,183
+img324.jpg,275,183,Fruit waste,100,78,173,118
+img324.jpg,275,183,Fruit waste,98,15,170,78
+img324.jpg,275,183,Fruit waste,54,53,99,110
+img324.jpg,275,183,Fruit waste,171,56,226,113
+img324.jpg,275,183,Fruit waste,164,24,221,56
+img324.jpg,275,183,Fruit waste,223,49,272,97
+img323.jpg,194,259,Fruit waste,42,87,102,121
+img323.jpg,194,259,Fruit waste,26,133,54,184
+img323.jpg,194,259,Fruit waste,50,158,94,191
+img323.jpg,194,259,Fruit waste,73,122,121,153
+img323.jpg,194,259,Fruit waste,117,100,143,145
+img323.jpg,194,259,Fruit waste,112,82,147,116
+img323.jpg,194,259,Fruit waste,70,182,133,205
+img331.jpg,284,177,Fruit waste,162,21,262,119
+img331.jpg,284,177,Fruit waste,5,1,103,79
+img331.jpg,284,177,Fruit waste,4,81,97,133
+img331.jpg,284,177,Fruit waste,99,90,194,174
+img331.jpg,284,177,Fruit waste,96,33,162,89
+img331.jpg,284,177,Fruit waste,121,1,209,50
+img328.jpg,272,185,Fruit waste,59,33,128,105
+img328.jpg,272,185,Fruit waste,123,66,197,142
+img328.jpg,272,185,Fruit waste,127,3,194,64
+img330.jpg,194,259,Fruit waste,9,182,79,237
+img330.jpg,194,259,Fruit waste,32,109,88,165
+img330.jpg,194,259,Fruit waste,91,131,130,197
+img330.jpg,194,259,Fruit waste,132,126,180,196
+img330.jpg,194,259,Fruit waste,100,80,164,125
+img329.jpg,191,264,Fruit waste,22,19,90,109
+img329.jpg,191,264,Fruit waste,88,47,188,136
+img326.jpg,259,194,Fruit waste,38,71,98,87
+img326.jpg,259,194,Fruit waste,34,88,108,106
+img326.jpg,259,194,Fruit waste,111,18,175,49
+img326.jpg,259,194,Fruit waste,107,50,185,82
+img326.jpg,259,194,Fruit waste,113,83,178,106
+img326.jpg,259,194,Fruit waste,191,59,255,106
+img327.jpg,275,183,Fruit waste,91,26,275,171
+img325.jpg,225,225,Fruit waste,58,89,110,148
+img325.jpg,225,225,Fruit waste,113,94,176,159
+img325.jpg,225,225,Fruit waste,107,67,165,94
+img332.jpg,275,183,Fruit waste,131,116,201,158
+img332.jpg,275,183,Fruit waste,173,93,194,116
+img332.jpg,275,183,Fruit waste,195,1,275,141
+img335.jpg,264,191,Fruit waste,39,82,97,168
+img335.jpg,264,191,Fruit waste,89,75,171,139
+img335.jpg,264,191,Fruit waste,60,24,142,74
+img335.jpg,264,191,Fruit waste,146,24,199,76
+img335.jpg,264,191,Fruit waste,173,77,224,108
+img340.jpg,268,188,Fruit waste,115,29,166,97
+img340.jpg,268,188,Fruit waste,167,28,205,101
+img340.jpg,268,188,Fruit waste,121,97,166,163
+img340.jpg,268,188,Fruit waste,166,102,213,158
+img341.jpg,260,194,Fruit waste,50,65,109,127
+img341.jpg,260,194,Fruit waste,111,93,165,146
+img341.jpg,260,194,Fruit waste,94,21,150,80
+img341.jpg,260,194,Fruit waste,157,46,210,102
+img338.jpg,262,192,Fruit waste,82,84,202,147
+img333.jpg,267,189,Fruit waste,20,130,79,164
+img333.jpg,267,189,Fruit waste,109,114,166,163
+img333.jpg,267,189,Fruit waste,60,98,113,135
+img333.jpg,267,189,Fruit waste,173,60,230,103
+img333.jpg,267,189,Fruit waste,246,73,267,101
+img333.jpg,267,189,Fruit waste,190,133,267,169
+img333.jpg,267,189,Fruit waste,211,104,253,133
+img339.jpg,262,192,Fruit waste,68,80,130,132
+img339.jpg,262,192,Fruit waste,130,81,202,131
+img339.jpg,262,192,Fruit waste,8,52,30,85
+img339.jpg,262,192,Fruit waste,31,31,68,108
+img339.jpg,262,192,Fruit waste,69,30,135,81
+img339.jpg,262,192,Fruit waste,136,9,214,82
+img334.jpg,263,192,Fruit waste,13,16,156,135
+img334.jpg,263,192,Fruit waste,164,58,254,163
+img334.jpg,263,192,Fruit waste,192,87,252,123
+img334.jpg,263,192,Fruit waste,161,48,200,87
+img336.jpg,275,183,Fruit waste,36,59,142,109
+img336.jpg,275,183,Fruit waste,37,109,145,145
+img336.jpg,275,183,Fruit waste,143,101,197,140
+img337.jpg,275,183,Fruit waste,95,27,275,170
+img342.jpg,275,183,Fruit waste,98,58,157,133
+img342.jpg,275,183,Fruit waste,157,64,174,127
+img343.jpg,275,183,Fruit waste,78,101,144,164
+img343.jpg,275,183,Fruit waste,145,130,208,152
+img343.jpg,275,183,Fruit waste,11,64,78,163
+img343.jpg,275,183,Fruit waste,79,68,121,102
+img346.jpg,600,470,Fruit waste,40,175,199,348
+img346.jpg,600,470,Fruit waste,205,156,377,339
+img346.jpg,600,470,Fruit waste,379,185,567,357
+img345.jpg,650,433,Fruit waste,165,205,230,256
+img345.jpg,650,433,Fruit waste,239,199,266,268
+img345.jpg,650,433,Fruit waste,101,271,166,343
+img345.jpg,650,433,Fruit waste,292,165,369,205
+img345.jpg,650,433,Fruit waste,279,249,335,294
+img345.jpg,650,433,Fruit waste,166,256,233,326
+img345.jpg,650,433,Fruit waste,142,321,216,380
+img345.jpg,650,433,Fruit waste,222,292,293,353
+img345.jpg,650,433,Fruit waste,244,319,319,405
+img345.jpg,650,433,Fruit waste,353,186,452,297
+img345.jpg,650,433,Fruit waste,517,109,621,206
+img345.jpg,650,433,Fruit waste,202,153,283,182
+img345.jpg,650,433,Fruit waste,585,248,649,327
+img345.jpg,650,433,Fruit waste,520,388,589,433
+img345.jpg,650,433,Fruit waste,552,306,633,354
+img345.jpg,650,433,Fruit waste,598,315,635,351
+img348.jpg,600,420,Fruit waste,111,40,334,248
+img348.jpg,600,420,Fruit waste,335,127,534,350
+img348.jpg,600,420,Fruit waste,276,248,338,331
+img347.jpg,450,620,Fruit waste,39,197,133,274
+img347.jpg,450,620,Fruit waste,44,287,106,434
+img347.jpg,450,620,Fruit waste,60,27,142,125
+img347.jpg,450,620,Fruit waste,229,305,302,387
+img347.jpg,450,620,Fruit waste,208,392,311,474
+img347.jpg,450,620,Fruit waste,196,434,290,566
+img347.jpg,450,620,Fruit waste,310,407,379,533
+img347.jpg,450,620,Fruit waste,39,435,126,589
+img347.jpg,450,620,Fruit waste,117,419,198,514
+img347.jpg,450,620,Fruit waste,121,505,194,578
+img347.jpg,450,620,Fruit waste,181,174,268,280
+img347.jpg,450,620,Fruit waste,215,5,345,109
+img347.jpg,450,620,Fruit waste,222,113,307,168
+img347.jpg,450,620,Fruit waste,313,123,421,220
+img347.jpg,450,620,Fruit waste,313,220,414,337
+img347.jpg,450,620,Fruit waste,302,340,414,405
+img347.jpg,450,620,Fruit waste,112,277,159,381
+img347.jpg,450,620,Fruit waste,165,278,229,390
+img347.jpg,450,620,Fruit waste,12,130,181,197
+img344.jpg,272,185,Fruit waste,102,85,128,91
+img350.jpg,600,421,Fruit waste,43,196,267,356
+img350.jpg,600,421,Fruit waste,229,311,267,347
+img350.jpg,600,421,Fruit waste,285,314,341,351
+img350.jpg,600,421,Fruit waste,290,263,343,307
+img350.jpg,600,421,Fruit waste,363,283,415,315
+img350.jpg,600,421,Fruit waste,458,336,488,371
+img350.jpg,600,421,Fruit waste,44,93,92,118
+img350.jpg,600,421,Fruit waste,114,78,169,112
+img350.jpg,600,421,Fruit waste,118,122,210,174
+img350.jpg,600,421,Fruit waste,325,64,389,99
+img350.jpg,600,421,Fruit waste,415,48,468,79
+img350.jpg,600,421,Fruit waste,406,85,507,115
+img350.jpg,600,421,Fruit waste,361,46,403,71
+img350.jpg,600,421,Fruit waste,274,230,319,258
+img350.jpg,600,421,Fruit waste,192,49,310,142
+img349.jpg,600,420,Fruit waste,33,95,268,305
+img349.jpg,600,420,Fruit waste,325,185,582,371
+img349.jpg,600,420,Fruit waste,153,206,319,334
+img351.jpg,1600,1156,Fruit waste,249,586,570,847
+img351.jpg,1600,1156,Fruit waste,569,615,1063,940
+img351.jpg,1600,1156,Fruit waste,82,434,489,584
+img351.jpg,1600,1156,Fruit waste,937,601,1289,759
+img351.jpg,1600,1156,Fruit waste,283,293,500,426
+img351.jpg,1600,1156,Fruit waste,475,184,935,447
+img351.jpg,1600,1156,Fruit waste,935,134,1477,476
+img351.jpg,1600,1156,Fruit waste,1035,378,1549,647
+img351.jpg,1600,1156,Fruit waste,865,486,1014,575
+img352.jpg,600,470,Fruit waste,38,151,233,391
+img352.jpg,600,470,Fruit waste,303,263,413,408
+img352.jpg,600,470,Fruit waste,211,50,498,268
+img352.jpg,600,470,Fruit waste,413,268,575,404
+img352.jpg,600,470,Fruit waste,499,180,575,268
+img354.jpg,1300,968,Fruit waste,275,219,399,371
+img354.jpg,1300,968,Fruit waste,433,418,799,746
+img354.jpg,1300,968,Fruit waste,398,158,780,396
+img354.jpg,1300,968,Fruit waste,783,222,1075,482
+img360.jpg,1600,1155,Fruit waste,236,495,588,1015
+img360.jpg,1600,1155,Fruit waste,349,149,883,443
+img360.jpg,1600,1155,Fruit waste,892,131,1335,654
+img360.jpg,1600,1155,Fruit waste,535,456,1031,856
+img353.jpg,1300,1038,Fruit waste,193,388,561,714
+img353.jpg,1300,1038,Fruit waste,635,436,985,800
+img353.jpg,1300,1038,Fruit waste,529,122,840,463
+img359.jpg,500,642,Fruit waste,50,272,378,605
+img355.jpg,1300,968,Fruit waste,246,323,543,635
+img355.jpg,1300,968,Fruit waste,563,469,830,724
+img355.jpg,1300,968,Fruit waste,465,106,746,389
+img355.jpg,1300,968,Fruit waste,784,222,1051,503
+img358.jpg,1300,957,Fruit waste,62,73,784,677
+img358.jpg,1300,957,Fruit waste,812,281,1246,796
+img358.jpg,1300,957,Fruit waste,946,439,1245,604
+img358.jpg,1300,957,Fruit waste,794,225,988,438
+img357.jpg,1600,900,Fruit waste,668,56,1024,446
+img357.jpg,1600,900,Fruit waste,937,412,1374,848
+img361.jpg,320,160,Fruit waste,171,21,203,55
+img361.jpg,320,160,Fruit waste,209,24,252,69
+img361.jpg,320,160,Fruit waste,192,78,232,116
+img361.jpg,320,160,Fruit waste,256,74,298,115
+img361.jpg,320,160,Fruit waste,284,26,320,78
+img361.jpg,320,160,Fruit waste,248,129,285,160
+img361.jpg,320,160,Fruit waste,180,1,223,15
+img361.jpg,320,160,Fruit waste,132,16,152,42
+img356.jpg,1300,968,Fruit waste,296,136,601,444
+img356.jpg,1300,968,Fruit waste,628,130,907,449
+img356.jpg,1300,968,Fruit waste,401,442,722,781
+img356.jpg,1300,968,Fruit waste,821,442,1106,713
+img362.jpg,275,183,Fruit waste,132,47,234,153
+img362.jpg,275,183,Fruit waste,1,93,132,145
+img362.jpg,275,183,Fruit waste,37,61,132,93
+img362.jpg,275,183,Fruit waste,233,70,275,124
+img369.jpg,624,468,Fruit waste,242,228,469,425
+img369.jpg,624,468,Fruit waste,25,87,218,282
+img369.jpg,624,468,Fruit waste,400,17,493,66
+img369.jpg,624,468,Fruit waste,304,137,422,212
+img369.jpg,624,468,Fruit waste,446,181,624,306
+img369.jpg,624,468,Fruit waste,470,307,624,404
+img369.jpg,624,468,Fruit waste,423,122,496,182
+img369.jpg,624,468,Fruit waste,493,24,563,74
+img364.jpg,400,267,Fruit waste,103,45,341,224
+img370.jpg,450,319,Fruit waste,54,27,200,157
+img370.jpg,450,319,Fruit waste,29,128,224,231
+img370.jpg,450,319,Fruit waste,275,146,393,268
+img370.jpg,450,319,Fruit waste,212,60,344,183
+img370.jpg,450,319,Fruit waste,202,11,323,60
+img370.jpg,450,319,Fruit waste,346,93,395,147
+img368.jpg,1038,1390,Fruit waste,101,468,1029,831
+img368.jpg,1038,1390,Fruit waste,362,832,696,1181
+img368.jpg,1038,1390,Fruit waste,224,87,795,469
+img366.jpg,1280,853,Fruit waste,436,126,1280,794
+img371.jpg,653,436,Fruit waste,171,49,440,348
+img371.jpg,653,436,Fruit waste,65,173,172,351
+img371.jpg,653,436,Fruit waste,442,132,608,392
+img367.jpg,600,368,Fruit waste,26,100,438,262
+img367.jpg,600,368,Fruit waste,137,37,398,101
+img367.jpg,600,368,Fruit waste,438,84,569,271
+img365.jpg,1023,807,Fruit waste,52,195,501,634
+img365.jpg,1023,807,Fruit waste,503,56,948,644
+img363.jpg,308,164,Fruit waste,101,23,300,157
+img372.jpg,852,480,leaf,473,111,635,424
+img379.jpg,1600,1110,leaf,634,161,1004,864
+img379.jpg,1600,1110,leaf,1003,209,1294,911
+img374.jpg,2048,3072,leaf,12,898,148,1042
+img374.jpg,2048,3072,leaf,58,812,242,905
+img374.jpg,2048,3072,leaf,82,688,202,782
+img374.jpg,2048,3072,leaf,1158,1675,1285,1788
+img380.jpg,1200,798,leaf,120,29,213,95
+img380.jpg,1200,798,leaf,209,39,262,127
+img380.jpg,1200,798,leaf,231,19,333,105
+img380.jpg,1200,798,leaf,629,1,755,37
+img380.jpg,1200,798,leaf,516,1,586,47
+img380.jpg,1200,798,leaf,584,1,631,38
+img380.jpg,1200,798,leaf,330,30,376,105
+img380.jpg,1200,798,leaf,375,38,451,100
+img376.jpg,336,500,leaf,122,31,151,50
+img375.jpg,3000,2000,leaf,2534,1813,2658,1917
+img375.jpg,3000,2000,leaf,1744,1663,1928,1797
+img377.jpg,500,334,leaf,424,52,441,74
+img381.jpg,832,468,leaf,615,129,641,157
+img381.jpg,832,468,leaf,576,300,603,318
+img381.jpg,832,468,leaf,651,287,674,304
+img381.jpg,832,468,leaf,642,3,681,20
+img381.jpg,832,468,leaf,197,26,257,82
+img381.jpg,832,468,leaf,247,224,289,269
+img381.jpg,832,468,leaf,183,288,230,318
+img381.jpg,832,468,leaf,1,129,63,172
+img381.jpg,832,468,leaf,47,1,115,63
+img381.jpg,832,468,leaf,178,330,220,369
+img378.jpg,550,550,leaf,324,111,379,235
+img378.jpg,550,550,leaf,99,254,192,354
+img378.jpg,550,550,leaf,332,298,398,446
+img378.jpg,550,550,leaf,343,467,414,550
+img378.jpg,550,550,leaf,125,3,240,32
+img378.jpg,550,550,leaf,138,319,275,383
+img373.jpg,400,600,leaf,197,354,221,404
+img373.jpg,400,600,leaf,197,458,238,496
+img373.jpg,400,600,leaf,190,278,225,315
+img373.jpg,400,600,leaf,85,71,125,101
+img373.jpg,400,600,leaf,327,173,347,211
+img382.jpg,3456,2304,leaf,1207,702,2634,2283
+img382.jpg,3456,2304,leaf,204,815,1209,1958
+img382.jpg,3456,2304,leaf,1148,88,2336,793
+img382.jpg,3456,2304,leaf,2660,1361,3456,2100
+img382.jpg,3456,2304,leaf,2809,363,3456,1243
+img382.jpg,3456,2304,leaf,7,395,346,1419
+img391.jpg,800,582,leaf,179,63,257,150
+img391.jpg,800,582,leaf,242,268,318,321
+img391.jpg,800,582,leaf,323,265,404,356
+img391.jpg,800,582,leaf,361,225,415,259
+img391.jpg,800,582,leaf,291,220,339,258
+img391.jpg,800,582,leaf,404,270,458,340
+img385.jpg,2048,1152,leaf,1067,167,1398,837
+img385.jpg,2048,1152,leaf,712,125,904,378
+img385.jpg,2048,1152,leaf,504,605,1044,831
+img385.jpg,2048,1152,leaf,653,881,1248,1151
+img385.jpg,2048,1152,leaf,465,410,922,592
+img385.jpg,2048,1152,leaf,1486,777,1896,1121
+img385.jpg,2048,1152,leaf,127,164,716,399
+img385.jpg,2048,1152,leaf,60,3,518,167
+img385.jpg,2048,1152,leaf,549,14,705,173
+img389.jpg,800,582,leaf,181,65,263,150
+img389.jpg,800,582,leaf,245,271,314,321
+img389.jpg,800,582,leaf,358,225,418,261
+img389.jpg,800,582,leaf,323,267,381,343
+img386.jpg,700,467,leaf,19,165,56,206
+img384.jpg,750,610,leaf,176,271,223,313
+img384.jpg,750,610,leaf,147,169,176,199
+img384.jpg,750,610,leaf,175,134,206,182
+img390.jpg,516,335,leaf,55,256,77,294
+img383.jpg,2048,1352,leaf,561,691,801,894
+img383.jpg,2048,1352,leaf,1215,892,1552,1245
+img383.jpg,2048,1352,leaf,264,777,545,962
+img383.jpg,2048,1352,leaf,468,465,761,694
+img383.jpg,2048,1352,leaf,1290,34,1571,268
+img383.jpg,2048,1352,leaf,284,535,471,659
+img383.jpg,2048,1352,leaf,810,655,1065,879
+img383.jpg,2048,1352,leaf,1021,704,1297,1019
+img383.jpg,2048,1352,leaf,1404,645,1650,951
+img383.jpg,2048,1352,leaf,1752,332,1960,549
+img383.jpg,2048,1352,leaf,1097,252,1452,558
+img383.jpg,2048,1352,leaf,190,639,351,771
+img383.jpg,2048,1352,leaf,820,191,1180,562
+img392.jpg,600,400,leaf,137,186,209,358
+img392.jpg,600,400,leaf,303,259,374,380
+img392.jpg,600,400,leaf,209,156,268,289
+img392.jpg,600,400,leaf,401,146,465,304
+img392.jpg,600,400,leaf,120,124,249,203
+img392.jpg,600,400,leaf,496,90,553,236
+img392.jpg,600,400,leaf,392,87,471,179
+img392.jpg,600,400,leaf,297,79,357,140
+img392.jpg,600,400,leaf,454,42,530,80
+img392.jpg,600,400,leaf,555,72,599,128
+img392.jpg,600,400,leaf,256,137,322,250
+img392.jpg,600,400,leaf,189,99,295,146
+img392.jpg,600,400,leaf,361,38,453,85
+img387.jpg,700,467,leaf,187,55,204,111
+img387.jpg,700,467,leaf,410,50,424,109
+img393.jpg,450,300,leaf,94,87,173,258
+img393.jpg,450,300,leaf,240,1,310,107
+img393.jpg,450,300,leaf,149,8,259,214
+img393.jpg,450,300,leaf,18,43,93,141
+img393.jpg,450,300,leaf,76,1,124,86
+img398.jpg,1024,624,leaf,329,326,412,381
+img398.jpg,1024,624,leaf,440,382,538,462
+img398.jpg,1024,624,leaf,322,162,363,222
+img398.jpg,1024,624,leaf,874,322,974,425
+img402.jpg,350,236,leaf,260,144,275,166
+img400.jpg,1300,866,leaf,486,193,883,645
+img400.jpg,1300,866,leaf,868,247,1027,553
+img400.jpg,1300,866,leaf,882,153,985,253
+img400.jpg,1300,866,leaf,1138,73,1298,378
+img400.jpg,1300,866,leaf,1203,309,1298,568
+img394.jpg,1300,866,leaf,304,23,1055,802
+img394.jpg,1300,866,leaf,5,2,771,845
+img399.jpg,1300,866,leaf,327,414,486,550
+img399.jpg,1300,866,leaf,85,584,340,703
+img399.jpg,1300,866,leaf,1004,171,1293,478
+img401.jpg,1300,731,leaf,471,19,665,364
+img401.jpg,1300,731,leaf,570,268,679,617
+img401.jpg,1300,731,leaf,359,369,573,655
+img401.jpg,1300,731,leaf,668,18,789,383
+img401.jpg,1300,731,leaf,680,380,826,532
+img401.jpg,1300,731,leaf,793,178,954,372
+img401.jpg,1300,731,leaf,393,228,478,369
+img401.jpg,1300,731,leaf,681,533,785,659
+img397.jpg,866,1300,leaf,265,565,604,994
+img397.jpg,866,1300,leaf,204,383,458,588
+img397.jpg,866,1300,leaf,490,441,711,737
+img396.jpg,1300,866,leaf,224,440,421,815
+img396.jpg,1300,866,leaf,305,540,647,773
+img396.jpg,1300,866,leaf,240,283,500,471
+img395.jpg,1300,866,leaf,297,356,399,672
+img395.jpg,1300,866,leaf,279,110,402,259
+img395.jpg,1300,866,leaf,522,657,1010,859
+img403.jpg,350,236,leaf,60,207,92,236
+img405.jpg,450,300,leaf,62,86,136,250
+img405.jpg,450,300,leaf,144,69,281,285
+img405.jpg,450,300,leaf,247,55,320,216
+img404.jpg,450,300,leaf,222,130,354,275
+img404.jpg,450,300,leaf,79,128,247,259
+img404.jpg,450,300,leaf,144,38,281,123
+img404.jpg,450,300,leaf,304,3,396,95
+img411.jpg,600,500,leaf,81,144,305,458
+img411.jpg,600,500,leaf,1,1,177,286
+img411.jpg,600,500,leaf,231,88,336,178
+img411.jpg,600,500,leaf,446,320,555,471
+img411.jpg,600,500,leaf,464,170,560,265
+img411.jpg,600,500,leaf,551,19,588,106
+img411.jpg,600,500,leaf,285,340,341,451
+img411.jpg,600,500,leaf,36,94,129,308
+img411.jpg,600,500,leaf,93,1,178,85
+img408.jpg,1024,683,leaf,290,418,572,626
+img408.jpg,1024,683,leaf,417,62,609,418
+img408.jpg,1024,683,leaf,617,335,933,458
+img410.jpg,509,340,leaf,173,29,449,297
+img410.jpg,509,340,leaf,60,185,165,340
+img409.jpg,900,590,leaf,351,71,605,292
+img409.jpg,900,590,leaf,361,277,570,404
+img409.jpg,900,590,leaf,74,366,355,549
+img409.jpg,900,590,leaf,221,256,362,372
+img409.jpg,900,590,leaf,635,461,773,556
+img409.jpg,900,590,leaf,76,484,281,590
+img412.jpg,450,600,leaf,4,223,39,353
+img412.jpg,450,600,leaf,274,381,317,463
+img412.jpg,450,600,leaf,36,239,93,368
+img412.jpg,450,600,leaf,303,434,346,516
+img412.jpg,450,600,leaf,270,184,331,278
+img412.jpg,450,600,leaf,166,328,206,405
+img412.jpg,450,600,leaf,344,464,391,554
+img412.jpg,450,600,leaf,147,1,179,94
+img412.jpg,450,600,leaf,189,4,224,86
+img412.jpg,450,600,leaf,336,103,387,224
+img412.jpg,450,600,leaf,380,77,429,206
+img412.jpg,450,600,leaf,153,89,186,159
+img412.jpg,450,600,leaf,202,87,249,167
+img412.jpg,450,600,leaf,260,98,312,199
+img412.jpg,450,600,leaf,1,171,67,211
+img407.jpg,1300,731,leaf,367,351,683,681
+img407.jpg,1300,731,leaf,384,15,830,358
+img406.jpg,1300,867,leaf,572,251,798,420
+img406.jpg,1300,867,leaf,612,416,722,789
+img406.jpg,1300,867,leaf,892,294,1009,494
+img406.jpg,1300,867,leaf,871,492,1066,679
+img406.jpg,1300,867,leaf,721,418,891,846
+img406.jpg,1300,867,leaf,1024,140,1164,523
+img406.jpg,1300,867,leaf,792,68,999,325
+img413.jpg,800,533,leaf,91,47,320,252
+img413.jpg,800,533,leaf,370,49,487,179
+img413.jpg,800,533,leaf,608,330,800,501
+img413.jpg,800,533,leaf,519,16,799,319
+img413.jpg,800,533,leaf,3,132,271,327
+img414.jpg,600,400,leaf,72,146,181,229
+img414.jpg,600,400,leaf,160,199,254,270
+img414.jpg,600,400,leaf,239,93,314,209
+img414.jpg,600,400,leaf,487,195,556,339
+img414.jpg,600,400,leaf,335,192,415,356
+img414.jpg,600,400,leaf,22,16,166,131
+img414.jpg,600,400,leaf,153,25,266,116
+img414.jpg,600,400,leaf,325,39,477,103
+img414.jpg,600,400,leaf,504,19,590,184
+img414.jpg,600,400,leaf,87,219,163,340
+img414.jpg,600,400,leaf,188,292,271,390
+img414.jpg,600,400,leaf,270,281,335,376
+img422.jpg,1500,997,leaf,223,670,330,757
+img422.jpg,1500,997,leaf,803,7,866,95
+img422.jpg,1500,997,leaf,1008,298,1104,375
+img418.jpg,485,368,leaf,137,61,331,362
+img419.jpg,500,357,leaf,87,103,254,305
+img419.jpg,500,357,leaf,1,64,118,200
+img419.jpg,500,357,leaf,216,59,407,202
+img419.jpg,500,357,leaf,221,213,391,331
+img419.jpg,500,357,leaf,350,177,500,281
+img419.jpg,500,357,leaf,159,2,282,102
+img419.jpg,500,357,leaf,307,3,463,126
+img419.jpg,500,357,leaf,18,1,109,73
+img419.jpg,500,357,leaf,390,282,492,344
+img417.jpg,800,533,leaf,318,264,503,461
+img421.jpg,600,500,leaf,2,195,128,368
+img421.jpg,600,500,leaf,175,226,353,487
+img421.jpg,600,500,leaf,270,125,397,302
+img421.jpg,600,500,leaf,387,81,490,179
+img421.jpg,600,500,leaf,557,86,600,209
+img421.jpg,600,500,leaf,12,2,116,89
+img421.jpg,600,500,leaf,467,283,583,406
+img421.jpg,600,500,leaf,446,341,576,477
+img421.jpg,600,500,leaf,428,180,504,284
+img421.jpg,600,500,leaf,478,237,598,330
+img420.jpg,1152,1481,leaf,208,535,695,1410
+img420.jpg,1152,1481,leaf,786,587,1145,1476
+img420.jpg,1152,1481,leaf,1,477,100,1063
+img420.jpg,1152,1481,leaf,95,8,481,327
+img420.jpg,1152,1481,leaf,733,8,1150,435
+img420.jpg,1152,1481,leaf,315,72,762,412
+img415.jpg,800,533,leaf,52,12,527,493
+img416.jpg,800,533,leaf,39,271,141,387
+img423.jpg,1024,768,leaf,37,106,446,372
+img423.jpg,1024,768,leaf,220,378,498,692
+img423.jpg,1024,768,leaf,529,570,893,757
+img423.jpg,1024,768,leaf,489,65,734,307
+img423.jpg,1024,768,leaf,7,376,158,676
+img423.jpg,1024,768,leaf,751,136,1024,539
+img423.jpg,1024,768,leaf,40,460,149,677
+img431.jpg,733,489,leaf,59,251,194,356
+img431.jpg,733,489,leaf,98,95,189,187
+img431.jpg,733,489,leaf,213,118,327,203
+img431.jpg,733,489,leaf,333,100,414,218
+img431.jpg,733,489,leaf,451,226,565,365
+img431.jpg,733,489,leaf,225,234,338,363
+img431.jpg,733,489,leaf,350,271,449,422
+img431.jpg,733,489,leaf,29,364,135,476
+img426.jpg,644,450,leaf,4,153,67,355
+img426.jpg,644,450,leaf,211,67,253,134
+img426.jpg,644,450,leaf,329,1,395,109
+img426.jpg,644,450,leaf,44,30,102,104
+img426.jpg,644,450,leaf,581,60,644,162
+img424.jpg,1000,1000,leaf,123,568,294,829
+img424.jpg,1000,1000,leaf,4,334,140,597
+img424.jpg,1000,1000,leaf,397,375,567,588
+img424.jpg,1000,1000,leaf,587,634,728,852
+img424.jpg,1000,1000,leaf,4,802,100,981
+img424.jpg,1000,1000,leaf,372,183,477,302
+img424.jpg,1000,1000,leaf,584,211,631,299
+img424.jpg,1000,1000,leaf,849,157,968,295
+img424.jpg,1000,1000,leaf,845,295,977,478
+img424.jpg,1000,1000,leaf,600,386,717,532
+img424.jpg,1000,1000,leaf,160,182,246,346
+img424.jpg,1000,1000,leaf,738,579,860,800
+img424.jpg,1000,1000,leaf,864,502,1000,723
+img424.jpg,1000,1000,leaf,13,102,156,227
+img424.jpg,1000,1000,leaf,608,69,704,206
+img424.jpg,1000,1000,leaf,711,115,821,195
+img424.jpg,1000,1000,leaf,192,95,276,186
+img424.jpg,1000,1000,leaf,470,717,594,893
+img424.jpg,1000,1000,leaf,167,357,247,469
+img424.jpg,1000,1000,leaf,404,32,508,161
+img424.jpg,1000,1000,leaf,875,504,1000,710
+img424.jpg,1000,1000,leaf,896,686,966,810
+img425.jpg,450,450,leaf,159,208,248,375
+img425.jpg,450,450,leaf,37,23,162,244
+img425.jpg,450,450,leaf,61,320,177,444
+img425.jpg,450,450,leaf,323,211,417,319
+img425.jpg,450,450,leaf,234,293,296,382
+img425.jpg,450,450,leaf,298,312,353,408
+img425.jpg,450,450,leaf,219,89,370,213
+img432.jpg,1024,575,leaf,59,298,110,420
+img432.jpg,1024,575,leaf,295,177,355,244
+img432.jpg,1024,575,leaf,332,457,374,524
+img432.jpg,1024,575,leaf,325,243,384,298
+img432.jpg,1024,575,leaf,406,105,442,155
+img432.jpg,1024,575,leaf,403,217,440,280
+img432.jpg,1024,575,leaf,606,184,659,259
+img432.jpg,1024,575,leaf,656,199,702,266
+img432.jpg,1024,575,leaf,448,436,517,502
+img432.jpg,1024,575,leaf,745,268,789,328
+img432.jpg,1024,575,leaf,367,316,437,394
+img428.jpg,300,300,leaf,30,75,90,123
+img428.jpg,300,300,leaf,76,114,139,176
+img428.jpg,300,300,leaf,161,61,234,108
+img428.jpg,300,300,leaf,158,107,212,153
+img428.jpg,300,300,leaf,43,14,109,76
+img428.jpg,300,300,leaf,78,176,132,213
+img428.jpg,300,300,leaf,138,196,192,273
+img428.jpg,300,300,leaf,69,245,128,300
+img428.jpg,300,300,leaf,101,1,163,38
+img428.jpg,300,300,leaf,42,189,85,258
+img428.jpg,300,300,leaf,207,111,253,183
+img427.jpg,1300,985,leaf,129,166,281,263
+img429.jpg,753,499,leaf,97,208,218,311
+img429.jpg,753,499,leaf,127,50,246,190
+img429.jpg,753,499,leaf,320,109,496,313
+img429.jpg,753,499,leaf,523,139,636,375
+img429.jpg,753,499,leaf,479,2,599,83
+img429.jpg,753,499,leaf,1,1,78,152
+img430.jpg,1600,1113,leaf,132,589,281,792
+img430.jpg,1600,1113,leaf,275,826,430,957
+img430.jpg,1600,1113,leaf,908,206,1026,310
+img430.jpg,1600,1113,leaf,1173,569,1243,666
+img433.jpg,600,417,leaf,270,136,310,176
+img433.jpg,600,417,leaf,322,113,373,152
+img433.jpg,600,417,leaf,375,250,415,302
+img433.jpg,600,417,leaf,99,36,140,89
+img433.jpg,600,417,leaf,540,321,574,388
+img433.jpg,600,417,leaf,425,44,466,71
+img434.jpg,1300,951,leaf,801,371,912,435
+img434.jpg,1300,951,leaf,879,520,977,596
+img434.jpg,1300,951,leaf,980,418,1051,491
+img434.jpg,1300,951,leaf,1041,461,1103,519
+img434.jpg,1300,951,leaf,1105,571,1209,652
+img442.jpg,800,533,leaf,1,296,360,474
+img442.jpg,800,533,leaf,375,130,627,348
+img442.jpg,800,533,leaf,673,180,798,341
+img440.jpg,400,600,leaf,28,203,74,254
+img436.jpg,600,879,leaf,414,3,478,103
+img437.jpg,1600,1067,leaf,206,837,324,971
+img437.jpg,1600,1067,leaf,104,689,239,801
+img437.jpg,1600,1067,leaf,419,588,464,679
+img437.jpg,1600,1067,leaf,620,486,703,604
+img437.jpg,1600,1067,leaf,525,620,622,768
+img437.jpg,1600,1067,leaf,346,343,473,425
+img437.jpg,1600,1067,leaf,967,279,1044,427
+img437.jpg,1600,1067,leaf,1447,302,1566,389
+img437.jpg,1600,1067,leaf,1379,569,1461,677
+img435.jpg,1400,844,leaf,240,589,305,658
+img435.jpg,1400,844,leaf,665,662,796,754
+img435.jpg,1400,844,leaf,797,661,926,748
+img438.jpg,960,637,leaf,90,199,182,421
+img438.jpg,960,637,leaf,290,287,483,458
+img438.jpg,960,637,leaf,184,203,263,428
+img438.jpg,960,637,leaf,517,298,595,492
+img438.jpg,960,637,leaf,421,182,525,269
+img438.jpg,960,637,leaf,619,282,713,499
+img438.jpg,960,637,leaf,737,235,807,400
+img441.jpg,552,368,leaf,4,138,86,241
+img441.jpg,552,368,leaf,262,148,400,332
+img439.jpg,1300,956,leaf,440,245,675,483
+img439.jpg,1300,956,leaf,797,248,1028,459
+img439.jpg,1300,956,leaf,1026,705,1195,868
+img439.jpg,1300,956,leaf,214,5,415,188
+img439.jpg,1300,956,leaf,421,2,621,128
+img443.jpg,500,375,leaf,185,168,398,368
+img443.jpg,500,375,leaf,23,149,174,337
+img443.jpg,500,375,leaf,211,76,344,170
+img443.jpg,500,375,leaf,314,40,415,169
+img443.jpg,500,375,leaf,1,34,48,111
+img451.jpg,1023,682,leaf,165,82,878,594
+img451.jpg,1023,682,leaf,760,287,1023,650
+img447.jpg,450,320,leaf,355,112,445,280
+img449.jpg,608,342,leaf,118,1,374,211
+img444.jpg,449,320,leaf,179,138,257,191
+img444.jpg,449,320,leaf,254,94,302,178
+img444.jpg,449,320,leaf,233,179,332,243
+img446.jpg,1300,953,leaf,395,107,710,822
+img446.jpg,1300,953,leaf,596,242,1133,704
+img452.jpg,608,342,leaf,226,45,345,193
+img452.jpg,608,342,leaf,209,193,301,313
+img452.jpg,608,342,leaf,301,195,342,297
+img452.jpg,608,342,leaf,336,112,399,314
+img452.jpg,608,342,leaf,345,26,468,199
+img450.jpg,1023,682,leaf,562,239,659,640
+img450.jpg,1023,682,leaf,652,246,770,598
+img450.jpg,1023,682,leaf,612,121,764,263
+img445.jpg,450,320,leaf,190,96,250,244
+img445.jpg,450,320,leaf,248,96,316,234
+img445.jpg,450,320,leaf,302,44,359,146
+img448.jpg,1023,682,leaf,218,134,331,331
+img448.jpg,1023,682,leaf,182,426,478,646
+img448.jpg,1023,682,leaf,333,217,532,400
+img448.jpg,1023,682,leaf,540,354,693,444
+img448.jpg,1023,682,leaf,529,417,672,513
+img448.jpg,1023,682,leaf,579,130,745,347
+img453.jpg,608,342,leaf,75,126,113,182
+img453.jpg,608,342,leaf,237,29,271,70
+img453.jpg,608,342,leaf,416,1,449,60
+img457.jpg,800,600,leaf,309,332,527,555
+img457.jpg,800,600,leaf,194,155,399,342
+img461.jpg,960,642,leaf,292,247,422,400
+img461.jpg,960,642,leaf,701,153,802,352
+img461.jpg,960,642,leaf,401,303,495,588
+img461.jpg,960,642,leaf,537,110,619,435
+img461.jpg,960,642,leaf,748,120,888,364
+img454.jpg,728,410,leaf,531,309,680,397
+img454.jpg,728,410,leaf,327,320,396,397
+img455.jpg,1280,858,leaf,316,244,631,684
+img455.jpg,1280,858,leaf,151,4,586,280
+img455.jpg,1280,858,leaf,756,318,1084,635
+img455.jpg,1280,858,leaf,555,417,799,826
+img456.jpg,1920,1080,leaf,550,195,1183,983
+img456.jpg,1920,1080,leaf,144,765,543,988
+img459.jpg,4288,2848,leaf,1284,808,2806,2169
+img459.jpg,4288,2848,leaf,15,1908,981,2829
+img459.jpg,4288,2848,leaf,1515,42,2390,832
+img462.jpg,960,638,leaf,325,303,500,566
+img462.jpg,960,638,leaf,133,270,237,393
+img462.jpg,960,638,leaf,282,68,347,263
+img460.jpg,960,635,leaf,246,137,441,499
+img460.jpg,960,635,leaf,558,307,641,588
+img460.jpg,960,635,leaf,539,80,624,300
+img458.jpg,4288,2848,leaf,2315,166,4221,1984
+img458.jpg,4288,2848,leaf,15,460,3172,2281
+img463.jpg,1600,1200,leaf,84,571,256,894
+img463.jpg,1600,1200,leaf,260,428,502,992
+img463.jpg,1600,1200,leaf,493,397,688,933
+img463.jpg,1600,1200,leaf,741,413,1038,801
+img463.jpg,1600,1200,leaf,1046,659,1256,954
+img468.jpg,3500,2325,leaf,399,785,1111,1430
+img468.jpg,3500,2325,leaf,1089,160,1491,832
+img468.jpg,3500,2325,leaf,54,25,536,632
+img468.jpg,3500,2325,leaf,591,1437,1071,1690
+img468.jpg,3500,2325,leaf,1314,610,1829,1572
+img468.jpg,3500,2325,leaf,1486,52,2114,597
+img472.jpg,877,500,leaf,83,375,138,479
+img471.jpg,1000,665,leaf,81,294,377,633
+img471.jpg,1000,665,leaf,377,228,529,661
+img471.jpg,1000,665,leaf,520,106,696,596
+img471.jpg,1000,665,leaf,666,1,873,442
+img471.jpg,1000,665,leaf,101,62,559,197
+img466.jpg,4288,2848,leaf,1000,1702,1572,2360
+img466.jpg,4288,2848,leaf,1181,1199,1957,1932
+img466.jpg,4288,2848,leaf,1772,745,2818,2029
+img470.jpg,910,600,leaf,138,106,267,373
+img470.jpg,910,600,leaf,272,209,390,504
+img470.jpg,910,600,leaf,390,287,506,523
+img469.jpg,1024,921,leaf,449,235,556,405
+img469.jpg,1024,921,leaf,566,222,685,432
+img469.jpg,1024,921,leaf,91,240,202,410
+img469.jpg,1024,921,leaf,200,220,288,377
+img469.jpg,1024,921,leaf,11,513,180,645
+img469.jpg,1024,921,leaf,621,152,746,267
+img469.jpg,1024,921,leaf,367,529,483,625
+img469.jpg,1024,921,leaf,376,620,471,713
+img467.jpg,700,437,leaf,337,105,412,184
+img467.jpg,700,437,leaf,386,40,443,131
+img467.jpg,700,437,leaf,407,118,471,213
+img467.jpg,700,437,leaf,427,77,505,136
+img467.jpg,700,437,leaf,412,227,517,287
+img467.jpg,700,437,leaf,473,171,554,255
+img467.jpg,700,437,leaf,390,286,531,410
+img464.jpg,350,258,leaf,65,73,117,164
+img464.jpg,350,258,leaf,101,82,151,155
+img464.jpg,350,258,leaf,184,126,265,248
+img464.jpg,350,258,leaf,249,127,287,232
+img464.jpg,350,258,leaf,247,101,318,169
+img465.jpg,450,357,leaf,159,81,271,119
+img465.jpg,450,357,leaf,217,50,286,84
+img473.jpg,1688,1126,leaf,87,206,322,704
+img473.jpg,1688,1126,leaf,335,191,597,723
+img473.jpg,1688,1126,leaf,591,363,1011,988
+img473.jpg,1688,1126,leaf,1086,321,1540,947
+img479.jpg,640,361,leaf,74,179,109,221
+img479.jpg,640,361,leaf,141,110,230,157
+img479.jpg,640,361,leaf,255,146,294,191
+img479.jpg,640,361,leaf,383,118,414,154
+img479.jpg,640,361,leaf,479,183,520,219
+img479.jpg,640,361,leaf,528,135,582,181
+img479.jpg,640,361,leaf,219,27,263,79
+img476.jpg,736,884,leaf,291,59,369,140
+img476.jpg,736,884,leaf,482,48,544,165
+img475.jpg,450,320,leaf,94,86,275,266
+img475.jpg,450,320,leaf,276,112,449,288
+img475.jpg,450,320,leaf,302,1,412,38
+img475.jpg,450,320,leaf,97,4,264,74
+img474.jpg,500,400,leaf,84,53,333,340
+img474.jpg,500,400,leaf,4,220,76,340
+img474.jpg,500,400,leaf,406,79,500,206
+img474.jpg,500,400,leaf,288,39,416,183
+img474.jpg,500,400,leaf,1,77,30,141
+img478.jpg,276,183,leaf,32,63,90,116
+img478.jpg,276,183,leaf,86,12,117,62
+img482.jpg,275,183,leaf,68,70,101,145
+img482.jpg,275,183,leaf,118,62,152,139
+img482.jpg,275,183,leaf,161,77,181,144
+img482.jpg,275,183,leaf,171,56,201,133
+img477.jpg,1300,956,leaf,433,450,653,651
+img477.jpg,1300,956,leaf,512,603,673,776
+img477.jpg,1300,956,leaf,1068,198,1208,626
+img477.jpg,1300,956,leaf,219,751,520,869
+img481.jpg,480,480,leaf,195,124,472,475
+img481.jpg,480,480,leaf,1,26,40,130
+img481.jpg,480,480,leaf,262,2,434,79
+img480.jpg,300,168,leaf,101,20,231,96
+img480.jpg,300,168,leaf,103,96,207,155
+img483.jpg,5184,3456,leaf,705,1294,2793,2213
+img483.jpg,5184,3456,leaf,1164,2124,2149,3250
+img483.jpg,5184,3456,leaf,75,1568,1530,3053
+img483.jpg,5184,3456,leaf,2412,1609,3601,3009
+img483.jpg,5184,3456,leaf,916,39,2008,1520
+img488.jpg,1920,1200,leaf,38,24,423,510
+img488.jpg,1920,1200,leaf,1015,277,1773,704
+img488.jpg,1920,1200,leaf,529,6,1300,383
+img488.jpg,1920,1200,leaf,14,370,517,888
+img488.jpg,1920,1200,leaf,516,400,929,982
+img488.jpg,1920,1200,leaf,709,943,1250,1179
+img486.jpg,299,168,leaf,169,17,210,142
+img486.jpg,299,168,leaf,211,38,258,134
+img486.jpg,299,168,leaf,1,1,33,51
+img486.jpg,299,168,leaf,262,125,294,167
+img487.jpg,1427,805,leaf,569,8,648,88
+img487.jpg,1427,805,leaf,345,372,389,463
+img491.jpg,960,1280,leaf,288,113,622,1058
+img489.jpg,1280,720,leaf,862,95,1134,468
+img489.jpg,1280,720,leaf,470,318,781,671
+img489.jpg,1280,720,leaf,73,290,384,720
+img489.jpg,1280,720,leaf,323,1,662,235
+img490.jpg,475,640,leaf,199,81,469,442
+img490.jpg,475,640,leaf,18,223,138,603
+img492.jpg,470,705,leaf,211,364,249,451
+img492.jpg,470,705,leaf,75,603,117,669
+img484.jpg,299,168,leaf,88,22,217,168
+img485.jpg,600,420,leaf,1,110,80,164
+img485.jpg,600,420,leaf,9,150,80,229
+img485.jpg,600,420,leaf,71,168,107,231
+img485.jpg,600,420,leaf,103,175,175,278
+img485.jpg,600,420,leaf,291,63,358,165
+img485.jpg,600,420,leaf,115,75,181,174
+img485.jpg,600,420,leaf,294,150,387,210
+img485.jpg,600,420,leaf,315,201,391,278
+img485.jpg,600,420,leaf,419,131,479,215
+img493.jpg,733,550,leaf,39,236,141,366
+img493.jpg,733,550,leaf,139,243,233,352
+img493.jpg,733,550,leaf,1,152,85,234
+img493.jpg,733,550,leaf,260,158,338,259
+img493.jpg,733,550,leaf,322,250,391,348
+img493.jpg,733,550,leaf,228,21,296,109
+img493.jpg,733,550,leaf,374,390,475,523
+img493.jpg,733,550,leaf,402,324,481,408
+img493.jpg,733,550,leaf,259,154,337,259
+img493.jpg,733,550,leaf,106,4,186,69
+img493.jpg,733,550,leaf,359,157,424,220
+img496.jpg,1332,2560,leaf,26,793,1110,1995
+img496.jpg,1332,2560,leaf,7,1790,835,2560
+img496.jpg,1332,2560,leaf,915,1984,1332,2433
+img496.jpg,1332,2560,leaf,7,9,640,549
+img496.jpg,1332,2560,leaf,459,14,1332,695
+img497.jpg,800,533,leaf,83,318,254,500
+img497.jpg,800,533,leaf,56,153,285,309
+img497.jpg,800,533,leaf,531,141,788,319
+img497.jpg,800,533,leaf,329,47,580,161
+img500.jpg,524,296,leaf,215,64,274,122
+img500.jpg,524,296,leaf,108,143,157,182
+img500.jpg,524,296,leaf,296,164,341,243
+img500.jpg,524,296,leaf,8,135,39,181
+img500.jpg,524,296,leaf,68,176,113,225
+img500.jpg,524,296,leaf,351,51,407,84
+img500.jpg,524,296,leaf,355,99,418,137
+img500.jpg,524,296,leaf,341,158,399,203
+img500.jpg,524,296,leaf,384,140,449,209
+img500.jpg,524,296,leaf,120,113,157,141
+img501.jpg,1200,1200,leaf,476,791,583,925
+img501.jpg,1200,1200,leaf,612,629,711,728
+img501.jpg,1200,1200,leaf,673,854,727,954
+img501.jpg,1200,1200,leaf,761,556,823,646
+img501.jpg,1200,1200,leaf,449,399,516,486
+img501.jpg,1200,1200,leaf,597,311,685,419
+img501.jpg,1200,1200,leaf,907,820,1012,941
+img494.jpg,4288,2848,leaf,3,469,3306,2278
+img494.jpg,4288,2848,leaf,2424,187,4266,2020
+img499.jpg,300,230,leaf,72,61,152,221
+img499.jpg,300,230,leaf,118,33,209,209
+img499.jpg,300,230,leaf,182,37,238,158
+img502.jpg,3024,4032,leaf,509,1446,1431,3003
+img502.jpg,3024,4032,leaf,1648,1146,2096,1851
+img502.jpg,3024,4032,leaf,1866,1168,2514,2129
+img502.jpg,3024,4032,leaf,1740,2425,2205,3681
+img502.jpg,3024,4032,leaf,1,1003,588,2242
+img502.jpg,3024,4032,leaf,1548,442,2179,1329
+img502.jpg,3024,4032,leaf,14,1068,592,2277
+img502.jpg,3024,4032,leaf,2596,407,3024,1285
+img495.jpg,1280,720,leaf,180,343,424,720
+img495.jpg,1280,720,leaf,485,196,714,720
+img495.jpg,1280,720,leaf,690,113,930,498
+img495.jpg,1280,720,leaf,813,1,975,302
+img498.jpg,1903,725,leaf,1479,253,1577,337
+img498.jpg,1903,725,leaf,457,95,544,180
+img503.jpg,865,1390,leaf,33,1,194,194
+img511.jpg,720,356,leaf,198,17,610,356
+img511.jpg,720,356,leaf,1,1,185,355
+img512.jpg,1520,752,leaf,311,346,464,430
+img512.jpg,1520,752,leaf,320,527,451,637
+img512.jpg,1520,752,leaf,576,306,799,397
+img512.jpg,1520,752,leaf,1086,184,1179,325
+img510.jpg,650,450,leaf,169,1,206,24
+img507.jpg,450,273,leaf,56,2,275,224
+img508.jpg,1200,800,leaf,351,418,527,612
+img508.jpg,1200,800,leaf,233,357,423,512
+img508.jpg,1200,800,leaf,159,258,268,400
+img508.jpg,1200,800,leaf,600,451,728,670
+img508.jpg,1200,800,leaf,749,301,897,517
+img508.jpg,1200,800,leaf,85,169,216,299
+img508.jpg,1200,800,leaf,221,112,401,300
+img508.jpg,1200,800,leaf,667,153,811,301
+img508.jpg,1200,800,leaf,332,633,428,800
+img508.jpg,1200,800,leaf,414,200,569,370
+img508.jpg,1200,800,leaf,647,317,748,458
+img508.jpg,1200,800,leaf,930,87,1045,256
+img509.jpg,1000,756,leaf,172,396,237,524
+img509.jpg,1000,756,leaf,304,464,374,549
+img506.jpg,450,273,leaf,138,26,334,237
+img504.jpg,300,200,leaf,112,52,166,137
+img504.jpg,300,200,leaf,159,53,193,144
+img504.jpg,300,200,leaf,179,45,239,146
+img504.jpg,300,200,leaf,99,42,145,104
+img504.jpg,300,200,leaf,239,93,268,167
+img504.jpg,300,200,leaf,239,42,266,108
+img505.jpg,800,533,leaf,190,235,291,325
+img505.jpg,800,533,leaf,48,364,142,423
+img505.jpg,800,533,leaf,136,325,195,395
+img505.jpg,800,533,leaf,330,152,420,235
+img505.jpg,800,533,leaf,419,169,473,233
+img505.jpg,800,533,leaf,496,200,577,316
+img505.jpg,800,533,leaf,342,432,448,516
+img505.jpg,800,533,leaf,482,416,593,506
+img505.jpg,800,533,leaf,719,396,766,500
+img513.jpg,2000,1333,leaf,518,529,770,1063
+img513.jpg,2000,1333,leaf,877,411,1095,981
+img513.jpg,2000,1333,leaf,1171,573,1320,1032
+img513.jpg,2000,1333,leaf,1239,413,1463,942
+img522.jpg,540,405,leaf,16,144,213,264
+img522.jpg,540,405,leaf,132,203,274,400
+img522.jpg,540,405,leaf,86,72,165,172
+img522.jpg,540,405,leaf,152,36,232,93
+img522.jpg,540,405,leaf,335,166,458,269
+img522.jpg,540,405,leaf,448,83,540,189
+img522.jpg,540,405,leaf,372,114,457,170
+img516.jpg,800,800,leaf,64,488,157,557
+img516.jpg,800,800,leaf,263,586,319,684
+img514.jpg,640,426,leaf,176,141,356,382
+img514.jpg,640,426,leaf,362,61,523,291
+img514.jpg,640,426,leaf,74,16,271,182
+img514.jpg,640,426,leaf,487,6,625,247
+img518.jpg,600,1063,leaf,2,563,57,674
+img518.jpg,600,1063,leaf,30,796,113,906
+img518.jpg,600,1063,leaf,40,345,105,449
+img518.jpg,600,1063,leaf,277,461,329,549
+img518.jpg,600,1063,leaf,311,170,374,250
+img518.jpg,600,1063,leaf,382,67,445,133
+img515.jpg,800,533,leaf,109,43,401,465
+img515.jpg,800,533,leaf,374,18,609,436
+img521.jpg,400,306,leaf,84,107,119,181
+img521.jpg,400,306,leaf,82,186,119,260
+img521.jpg,400,306,leaf,119,172,185,241
+img521.jpg,400,306,leaf,269,162,317,228
+img521.jpg,400,306,leaf,47,26,95,90
+img521.jpg,400,306,leaf,317,154,398,215
+img521.jpg,400,306,leaf,285,109,342,162
+img521.jpg,400,306,leaf,186,186,231,253
+img521.jpg,400,306,leaf,1,149,38,195
+img519.jpg,2592,4608,leaf,448,429,1258,1034
+img519.jpg,2592,4608,leaf,183,1349,1238,1879
+img519.jpg,2592,4608,leaf,28,2184,1298,2834
+img519.jpg,2592,4608,leaf,1463,2094,2338,2954
+img519.jpg,2592,4608,leaf,1308,1429,2523,2084
+img519.jpg,2592,4608,leaf,1353,799,2358,1474
+img519.jpg,2592,4608,leaf,98,2799,1223,3609
+img519.jpg,2592,4608,leaf,1483,3419,2029,4608
+img519.jpg,2592,4608,leaf,1668,2989,2592,3538
+img517.jpg,800,357,leaf,24,97,76,169
+img520.jpg,283,424,leaf,25,199,110,353
+img520.jpg,283,424,leaf,134,183,220,325
+img520.jpg,283,424,leaf,225,216,258,356
+img520.jpg,283,424,leaf,164,81,260,148
+img520.jpg,283,424,leaf,96,131,263,186
+img523.jpg,1300,957,leaf,105,169,213,263
+img523.jpg,1300,957,leaf,121,75,187,159
+img523.jpg,1300,957,leaf,516,275,601,367
+img523.jpg,1300,957,leaf,731,352,822,444
+img523.jpg,1300,957,leaf,947,375,1012,447
+img523.jpg,1300,957,leaf,1071,333,1112,398
+img526.jpg,275,183,leaf,62,142,89,178
+img526.jpg,275,183,leaf,173,74,208,112
+img526.jpg,275,183,leaf,209,80,244,111
+img524.jpg,300,168,leaf,82,7,218,151
+img528.jpg,275,183,leaf,173,9,201,71
+img528.jpg,275,183,leaf,31,98,92,138
+img528.jpg,275,183,leaf,97,71,152,108
+img528.jpg,275,183,leaf,100,118,128,160
+img525.jpg,276,182,leaf,72,36,121,144
+img525.jpg,276,182,leaf,125,48,158,164
+img525.jpg,276,182,leaf,159,87,188,171
+img532.jpg,284,177,leaf,135,16,204,85
+img532.jpg,284,177,leaf,164,65,223,118
+img532.jpg,284,177,leaf,159,110,215,169
+img529.jpg,275,183,leaf,88,39,174,172
+img527.jpg,275,183,leaf,1,101,125,161
+img527.jpg,275,183,leaf,78,39,203,99
+img530.jpg,297,170,leaf,181,60,248,135
+img530.jpg,297,170,leaf,34,1,133,49
+img530.jpg,297,170,leaf,75,50,148,144
+img530.jpg,297,170,leaf,147,12,200,69
+img531.jpg,262,192,leaf,89,50,136,96
+img531.jpg,262,192,leaf,162,47,204,92
+img531.jpg,262,192,leaf,205,132,240,175
+img533.jpg,275,183,leaf,38,55,85,151
+img533.jpg,275,183,leaf,87,39,173,173
+img533.jpg,275,183,leaf,152,29,196,132
+img590.jpg,284,177,leaf,77,1,188,55
+img590.jpg,284,177,leaf,2,49,77,132
+img590.jpg,284,177,leaf,123,56,265,105
+img590.jpg,284,177,leaf,101,135,184,171
+img590.jpg,284,177,leaf,4,2,78,49
+img537.jpg,266,189,leaf,113,57,148,144
+img537.jpg,266,189,leaf,179,28,211,88
+img537.jpg,266,189,leaf,145,55,185,139
+img539.jpg,284,177,leaf,81,1,188,55
+img539.jpg,284,177,leaf,128,41,264,103
+img539.jpg,284,177,leaf,4,2,81,71
+img538.jpg,275,183,leaf,151,117,171,131
+img538.jpg,275,183,leaf,224,10,261,35
+img535.jpg,259,194,leaf,102,107,177,177
+img535.jpg,259,194,leaf,162,43,224,97
+img536.jpg,275,183,leaf,62,87,96,164
+img536.jpg,275,183,leaf,97,70,123,137
+img536.jpg,275,183,leaf,137,119,171,177
+img536.jpg,275,183,leaf,184,68,218,122
+img536.jpg,275,183,leaf,228,42,250,109
+img536.jpg,275,183,leaf,122,63,146,111
+img592.jpg,252,200,leaf,86,46,145,65
+img592.jpg,252,200,leaf,120,28,161,45
+img592.jpg,252,200,leaf,180,8,224,43
+img534.jpg,276,183,leaf,85,54,180,141
+img591.jpg,275,183,leaf,72,27,156,183
+img591.jpg,275,183,leaf,146,21,225,119
+img593.jpg,252,200,leaf,89,48,143,66
+img593.jpg,252,200,leaf,122,24,166,50
+img593.jpg,252,200,leaf,180,8,225,56
+img594.jpg,275,183,leaf,152,74,172,174
+img594.jpg,275,183,leaf,176,67,207,162
+img594.jpg,275,183,leaf,163,34,208,76
+img596.jpg,259,194,leaf,110,69,143,119
+img600.jpg,259,194,leaf,10,77,91,176
+img600.jpg,259,194,leaf,96,85,205,194
+img600.jpg,259,194,leaf,164,20,216,86
+img600.jpg,259,194,leaf,109,37,175,92
+img600.jpg,259,194,leaf,48,5,117,75
+img601.jpg,336,150,leaf,10,48,31,59
+img598.jpg,275,183,leaf,109,34,168,111
+img602.jpg,300,168,leaf,89,52,104,72
+img602.jpg,300,168,leaf,109,55,122,76
+img595.jpg,288,175,leaf,36,1,176,145
+img597.jpg,288,175,leaf,85,18,224,152
+img599.jpg,275,183,leaf,109,95,169,155
+img603.jpg,275,183,leaf,23,95,74,140
+img603.jpg,275,183,leaf,86,90,126,138
+img603.jpg,275,183,leaf,36,35,73,75
+img603.jpg,275,183,leaf,78,45,123,73
+img603.jpg,275,183,leaf,171,85,209,135
+img603.jpg,275,183,leaf,134,99,169,162
+img603.jpg,275,183,leaf,6,135,45,183
+img610.jpg,400,600,leaf,160,277,203,355
+img610.jpg,400,600,leaf,86,66,135,106
+img610.jpg,400,600,leaf,173,359,223,408
+img604.jpg,299,169,leaf,39,100,68,131
+img604.jpg,299,169,leaf,133,39,153,68
+img604.jpg,299,169,leaf,168,96,194,137
+img604.jpg,299,169,leaf,78,111,99,133
+img604.jpg,299,169,leaf,189,109,218,144
+img604.jpg,299,169,leaf,204,56,238,78
+img604.jpg,299,169,leaf,7,77,24,103
+img604.jpg,299,169,leaf,103,147,131,169
+img604.jpg,299,169,leaf,224,83,258,119
+img611.jpg,2048,3072,leaf,16,1325,109,1452
+img606.jpg,275,183,leaf,206,56,229,75
+img605.jpg,279,181,leaf,69,143,81,161
+img608.jpg,3264,2448,leaf,362,1068,1106,2008
+img608.jpg,3264,2448,leaf,699,437,1062,1060
+img608.jpg,3264,2448,leaf,1067,887,1496,1568
+img608.jpg,3264,2448,leaf,1149,1523,1591,2408
+img608.jpg,3264,2448,leaf,1591,1510,2096,2197
+img608.jpg,3264,2448,leaf,2120,1465,2933,2210
+img608.jpg,3264,2448,leaf,2012,826,2625,1447
+img608.jpg,3264,2448,leaf,1662,137,2159,865
+img608.jpg,3264,2448,leaf,1051,100,1572,887
+img608.jpg,3264,2448,leaf,1470,813,1977,1487
+img608.jpg,3264,2448,leaf,2067,363,2601,937
+img607.jpg,275,183,leaf,105,9,118,21
+img612.jpg,3000,2000,leaf,1918,1446,2065,1578
+img612.jpg,3000,2000,leaf,1918,1834,2090,1957
+img612.jpg,3000,2000,leaf,2499,1806,2692,1923
+img609.jpg,852,480,leaf,469,110,635,422
+img613.jpg,336,500,leaf,78,1,114,32
+img621.jpg,750,610,leaf,313,533,361,585
+img621.jpg,750,610,leaf,176,268,216,316
+img621.jpg,750,610,leaf,325,487,382,530
+img619.jpg,3456,2304,leaf,217,819,1212,1993
+img619.jpg,3456,2304,leaf,1212,707,2605,2304
+img619.jpg,3456,2304,leaf,1139,73,2370,795
+img619.jpg,3456,2304,leaf,2817,363,3451,1234
+img619.jpg,3456,2304,leaf,2651,1371,3456,2198
+img622.jpg,2048,1152,leaf,116,211,464,385
+img622.jpg,2048,1152,leaf,531,7,718,259
+img622.jpg,2048,1152,leaf,46,11,530,190
+img622.jpg,2048,1152,leaf,708,99,905,392
+img622.jpg,2048,1152,leaf,468,258,719,440
+img622.jpg,2048,1152,leaf,456,399,918,584
+img622.jpg,2048,1152,leaf,505,604,1059,833
+img622.jpg,2048,1152,leaf,656,896,1222,1152
+img622.jpg,2048,1152,leaf,930,7,1126,599
+img622.jpg,2048,1152,leaf,1074,152,1390,912
+img622.jpg,2048,1152,leaf,1245,268,1559,1140
+img622.jpg,2048,1152,leaf,1483,762,1901,1144
+img615.jpg,550,550,leaf,99,247,207,344
+img615.jpg,550,550,leaf,162,271,256,383
+img615.jpg,550,550,leaf,323,110,382,236
+img615.jpg,550,550,leaf,331,302,393,448
+img615.jpg,550,550,leaf,110,1,251,32
+img615.jpg,550,550,leaf,339,460,424,548
+img618.jpg,832,468,leaf,188,18,251,89
+img618.jpg,832,468,leaf,239,225,295,264
+img618.jpg,832,468,leaf,533,91,583,150
+img618.jpg,832,468,leaf,176,281,231,319
+img618.jpg,832,468,leaf,43,3,115,63
+img618.jpg,832,468,leaf,557,250,583,286
+img618.jpg,832,468,leaf,237,185,294,223
+img618.jpg,832,468,leaf,134,171,193,216
+img618.jpg,832,468,leaf,148,347,191,379
+img618.jpg,832,468,leaf,123,220,183,259
+img617.jpg,1200,798,leaf,122,16,262,127
+img617.jpg,1200,798,leaf,235,16,345,92
+img617.jpg,1200,798,leaf,457,21,550,116
+img617.jpg,1200,798,leaf,622,1,742,34
+img620.jpg,2048,1352,leaf,188,642,317,755
+img620.jpg,2048,1352,leaf,560,684,800,907
+img620.jpg,2048,1352,leaf,335,972,498,1122
+img620.jpg,2048,1352,leaf,1215,884,1541,1241
+img620.jpg,2048,1352,leaf,467,461,748,701
+img620.jpg,2048,1352,leaf,1108,242,1442,577
+img620.jpg,2048,1352,leaf,1290,35,1565,278
+img620.jpg,2048,1352,leaf,205,447,478,659
+img620.jpg,2048,1352,leaf,254,782,537,962
+img620.jpg,2048,1352,leaf,1617,521,1774,751
+img620.jpg,2048,1352,leaf,1764,315,1947,548
+img614.jpg,500,334,leaf,201,1,223,21
+img616.jpg,1600,1110,leaf,630,155,1004,868
+img616.jpg,1600,1110,leaf,926,199,1292,917
+img623.jpg,700,467,leaf,79,75,111,117
+img623.jpg,700,467,leaf,340,90,381,165
+img623.jpg,700,467,leaf,513,120,587,223
+img630.jpg,1300,866,leaf,1,4,110,820
+img630.jpg,1300,866,leaf,525,626,1004,866
+img629.jpg,1300,866,leaf,304,19,1069,805
+img627.jpg,600,400,leaf,135,186,208,353
+img627.jpg,600,400,leaf,302,260,371,378
+img627.jpg,600,400,leaf,402,145,464,259
+img627.jpg,600,400,leaf,209,150,269,292
+img627.jpg,600,400,leaf,261,139,318,253
+img627.jpg,600,400,leaf,125,119,236,209
+img627.jpg,600,400,leaf,265,138,325,245
+img627.jpg,600,400,leaf,392,82,472,182
+img627.jpg,600,400,leaf,496,89,553,234
+img627.jpg,600,400,leaf,548,120,581,252
+img627.jpg,600,400,leaf,297,80,355,137
+img627.jpg,600,400,leaf,188,110,296,141
+img624.jpg,700,467,leaf,126,103,163,173
+img624.jpg,700,467,leaf,206,71,232,180
+img625.jpg,516,335,leaf,118,227,148,267
+img626.jpeg,800,582,leaf,178,63,258,152
+img626.jpeg,800,582,leaf,244,268,316,320
+img626.jpeg,800,582,leaf,320,263,383,341
+img626.jpeg,800,582,leaf,359,223,408,258
+img626.jpeg,800,582,leaf,278,223,335,268
+img626.jpeg,800,582,leaf,397,263,438,310
+img626.jpeg,800,582,leaf,385,310,454,382
+img631.jpg,1300,866,leaf,232,433,431,826
+img631.jpg,1300,866,leaf,307,543,654,798
+img631.jpg,1300,866,leaf,238,277,499,475
+img628.jpg,450,300,leaf,91,89,156,259
+img628.jpg,450,300,leaf,169,109,257,264
+img628.jpg,450,300,leaf,148,9,259,216
+img628.jpg,450,300,leaf,235,1,313,107
+img628.jpg,450,300,leaf,1,1,37,49
+img628.jpg,450,300,leaf,75,1,128,89
+img632.jpg,866,1300,leaf,268,563,606,979
+img632.jpg,866,1300,leaf,476,438,727,740
+img633.jpg,1024,624,leaf,163,313,244,385
+img633.jpg,1024,624,leaf,336,324,402,388
+img633.jpg,1024,624,leaf,862,128,903,196
+img633.jpg,1024,624,leaf,772,496,821,559
+img642.jpg,1300,731,leaf,361,354,682,672
+img642.jpg,1300,731,leaf,378,15,839,362
+img639.jpg,450,300,leaf,140,35,282,122
+img639.jpg,450,300,leaf,304,1,399,96
+img639.jpg,450,300,leaf,220,131,358,274
+img639.jpg,450,300,leaf,79,130,226,261
+img640.jpg,450,300,leaf,60,87,139,243
+img640.jpg,450,300,leaf,144,68,283,278
+img640.jpg,450,300,leaf,248,50,319,218
+img637.jpg,350,236,leaf,197,102,228,137
+img636.jpg,1300,731,leaf,355,5,956,659
+img638.jpg,350,236,leaf,164,17,198,39
+img635.jpg,1300,866,leaf,494,196,877,646
+img635.jpg,1300,866,leaf,849,248,1029,558
+img635.jpg,1300,866,leaf,1135,70,1294,383
+img635.jpg,1300,866,leaf,1195,307,1300,573
+img635.jpg,1300,866,leaf,876,148,978,249
+img635.jpg,1300,866,leaf,556,284,869,644
+img634.jpg,1300,866,leaf,85,578,464,712
+img641.jpg,1300,867,leaf,574,255,797,451
+img641.jpg,1300,867,leaf,616,292,800,787
+img641.jpg,1300,867,leaf,837,292,1083,683
+img641.jpg,1300,867,leaf,792,78,981,327
+img641.jpg,1300,867,leaf,1022,128,1166,546
+img643.jpg,1024,683,leaf,270,373,575,624
+img643.jpg,1024,683,leaf,604,341,927,463
+img643.jpg,1024,683,leaf,415,167,602,372
+img643.jpg,1024,683,leaf,602,223,699,342
+img648.jpg,800,533,leaf,89,36,323,251
+img648.jpg,800,533,leaf,519,5,799,321
+img648.jpg,800,533,leaf,436,4,518,140
+img648.jpg,800,533,leaf,605,343,800,516
+img649.jpg,600,400,leaf,151,28,272,127
+img649.jpg,600,400,leaf,238,94,316,209
+img649.jpg,600,400,leaf,73,146,183,228
+img649.jpg,600,400,leaf,159,200,258,272
+img649.jpg,600,400,leaf,262,284,340,382
+img649.jpg,600,400,leaf,486,191,557,348
+img649.jpg,600,400,leaf,501,20,600,189
+img649.jpg,600,400,leaf,88,227,165,341
+img649.jpg,600,400,leaf,187,282,259,382
+img649.jpg,600,400,leaf,321,34,479,98
+img649.jpg,600,400,leaf,292,154,401,210
+img649.jpg,600,400,leaf,22,14,149,132
+img647.jpg,450,600,leaf,1,213,40,349
+img647.jpg,450,600,leaf,38,239,103,366
+img647.jpg,450,600,leaf,266,175,334,279
+img647.jpg,450,600,leaf,275,371,318,454
+img647.jpg,450,600,leaf,303,432,351,515
+img647.jpg,450,600,leaf,2,172,72,208
+img647.jpg,450,600,leaf,333,104,384,232
+img647.jpg,450,600,leaf,383,78,429,206
+img647.jpg,450,600,leaf,225,1,280,84
+img647.jpg,450,600,leaf,146,4,179,97
+img647.jpg,450,600,leaf,156,97,189,171
+img647.jpg,450,600,leaf,382,335,439,416
+img647.jpg,450,600,leaf,265,518,310,596
+img645.jpg,509,340,leaf,163,1,450,297
+img644.jpg,900,590,leaf,348,74,557,274
+img644.jpg,900,590,leaf,349,274,570,404
+img644.jpg,900,590,leaf,225,264,424,499
+img644.jpg,900,590,leaf,72,362,224,518
+img644.jpg,900,590,leaf,138,311,229,368
+img644.jpg,900,590,leaf,634,456,763,542
+img652.jpg,800,533,leaf,324,261,493,446
+img646.jpg,600,500,leaf,82,140,312,458
+img646.jpg,600,500,leaf,444,319,558,473
+img646.jpg,600,500,leaf,2,1,174,288
+img646.jpg,600,500,leaf,234,93,410,336
+img650.jpg,800,533,leaf,49,14,531,495
+img651.jpg,800,533,leaf,136,187,290,358
+img653.jpg,485,368,leaf,136,64,333,366
+img661.jpg,644,450,leaf,204,62,254,133
+img661.jpg,644,450,leaf,113,189,159,243
+img661.jpg,644,450,leaf,333,3,406,101
+img661.jpg,644,450,leaf,39,29,90,92
+img661.jpg,644,450,leaf,487,183,590,269
+img660.jpg,450,450,leaf,35,23,167,247
+img660.jpg,450,450,leaf,59,315,192,443
+img660.jpg,450,450,leaf,219,90,364,230
+img660.jpg,450,450,leaf,164,209,251,375
+img660.jpg,450,450,leaf,237,292,297,381
+img660.jpg,450,450,leaf,297,305,350,411
+img660.jpg,450,450,leaf,319,215,419,320
+img660.jpg,450,450,leaf,241,4,335,86
+img660.jpg,450,450,leaf,368,337,426,392
+img659.jpg,1000,1000,leaf,132,563,295,827
+img659.jpg,1000,1000,leaf,400,375,557,605
+img659.jpg,1000,1000,leaf,591,391,722,508
+img659.jpg,1000,1000,leaf,3,328,138,692
+img659.jpg,1000,1000,leaf,853,160,973,296
+img659.jpg,1000,1000,leaf,608,63,733,239
+img659.jpg,1000,1000,leaf,18,94,141,230
+img659.jpg,1000,1000,leaf,153,186,248,334
+img659.jpg,1000,1000,leaf,198,299,294,484
+img659.jpg,1000,1000,leaf,10,805,103,977
+img659.jpg,1000,1000,leaf,251,526,376,713
+img659.jpg,1000,1000,leaf,839,290,973,483
+img659.jpg,1000,1000,leaf,843,40,917,182
+img659.jpg,1000,1000,leaf,740,581,866,824
+img659.jpg,1000,1000,leaf,864,506,1000,712
+img659.jpg,1000,1000,leaf,588,629,725,856
+img656.jpg,600,500,leaf,179,223,350,465
+img656.jpg,600,500,leaf,2,193,128,365
+img656.jpg,600,500,leaf,269,124,398,300
+img656.jpg,600,500,leaf,393,84,488,177
+img656.jpg,600,500,leaf,471,233,599,337
+img656.jpg,600,500,leaf,466,283,594,401
+img656.jpg,600,500,leaf,442,341,576,470
+img656.jpg,600,500,leaf,558,85,600,207
+img656.jpg,600,500,leaf,13,1,104,92
+img657.jpg,1500,997,leaf,807,15,853,78
+img657.jpg,1500,997,leaf,219,675,298,748
+img662.jpg,1300,985,leaf,67,43,170,151
+img658.jpg,1024,768,leaf,34,111,448,369
+img658.jpg,1024,768,leaf,490,62,742,309
+img658.jpg,1024,768,leaf,217,383,499,695
+img658.jpg,1024,768,leaf,34,448,162,677
+img658.jpg,1024,768,leaf,747,134,1024,534
+img658.jpg,1024,768,leaf,503,371,629,557
+img655.jpg,1152,1481,leaf,198,533,694,1419
+img655.jpg,1152,1481,leaf,789,588,1152,1407
+img655.jpg,1152,1481,leaf,736,4,1152,407
+img655.jpg,1152,1481,leaf,87,4,475,319
+img655.jpg,1152,1481,leaf,3,476,105,1051
+img655.jpg,1152,1481,leaf,333,72,753,418
+img654.jpg,500,357,leaf,88,105,255,307
+img654.jpg,500,357,leaf,2,68,117,200
+img654.jpg,500,357,leaf,222,61,402,205
+img654.jpg,500,357,leaf,215,211,393,327
+img654.jpg,500,357,leaf,347,176,494,282
+img654.jpg,500,357,leaf,310,1,465,121
+img654.jpg,500,357,leaf,162,1,283,108
+img663.jpg,300,300,leaf,75,109,141,178
+img663.jpg,300,300,leaf,32,74,86,120
+img663.jpg,300,300,leaf,42,12,112,95
+img663.jpg,300,300,leaf,76,174,137,210
+img663.jpg,300,300,leaf,157,106,214,153
+img663.jpg,300,300,leaf,147,25,211,79
+img663.jpg,300,300,leaf,157,61,236,111
+img663.jpg,300,300,leaf,229,32,291,85
+img663.jpg,300,300,leaf,203,113,254,179
+img663.jpg,300,300,leaf,20,9,70,73
+img663.jpg,300,300,leaf,62,241,136,300
+img663.jpg,300,300,leaf,135,193,194,275
+img672.jpg,1600,1067,leaf,204,828,324,969
+img672.jpg,1600,1067,leaf,104,689,254,807
+img672.jpg,1600,1067,leaf,546,357,632,474
+img672.jpg,1600,1067,leaf,963,275,1049,429
+img672.jpg,1600,1067,leaf,604,486,702,624
+img671.jpg,600,879,leaf,421,3,482,99
+img665.jpg,1600,1113,leaf,126,590,315,804
+img665.jpg,1600,1113,leaf,410,613,596,777
+img665.jpg,1600,1113,leaf,554,374,642,511
+img665.jpg,1600,1113,leaf,552,596,723,749
+img665.jpg,1600,1113,leaf,529,963,655,1109
+img668.jpg,600,417,leaf,373,246,405,295
+img668.jpg,600,417,leaf,103,38,135,85
+img668.jpg,600,417,leaf,274,10,324,56
+img668.jpg,600,417,leaf,534,322,581,385
+img669.jpg,1300,951,leaf,778,360,919,434
+img669.jpg,1300,951,leaf,866,522,997,592
+img669.jpg,1300,951,leaf,979,412,1057,499
+img669.jpg,1300,951,leaf,1047,459,1101,524
+img664.jpg,753,499,leaf,94,209,227,311
+img664.jpg,753,499,leaf,123,47,248,193
+img664.jpg,753,499,leaf,316,106,492,302
+img664.jpg,753,499,leaf,519,137,651,395
+img664.jpg,753,499,leaf,478,3,605,91
+img670.jpg,1400,844,leaf,208,38,299,202
+img667.jpg,1024,575,leaf,325,230,389,302
+img667.jpg,1024,575,leaf,288,391,386,464
+img667.jpg,1024,575,leaf,367,308,451,391
+img667.jpg,1024,575,leaf,512,218,572,304
+img667.jpg,1024,575,leaf,530,287,567,337
+img667.jpg,1024,575,leaf,587,228,629,296
+img667.jpg,1024,575,leaf,63,353,118,430
+img667.jpg,1024,575,leaf,403,99,471,168
+img667.jpg,1024,575,leaf,647,170,695,260
+img667.jpg,1024,575,leaf,694,168,729,221
+img667.jpg,1024,575,leaf,525,402,583,467
+img667.jpg,1024,575,leaf,668,338,728,411
+img667.jpg,1024,575,leaf,128,347,170,413
+img666.jpg,733,489,leaf,55,252,195,373
+img666.jpg,733,489,leaf,16,356,128,489
+img666.jpg,733,489,leaf,228,237,339,365
+img666.jpg,733,489,leaf,350,270,451,431
+img666.jpg,733,489,leaf,450,226,582,374
+img666.jpg,733,489,leaf,96,88,193,193
+img666.jpg,733,489,leaf,206,114,329,214
+img666.jpg,733,489,leaf,329,92,423,222
+img666.jpg,733,489,leaf,414,142,549,208
+img673.jpg,960,637,leaf,102,198,187,429
+img673.jpg,960,637,leaf,134,80,259,262
+img673.jpg,960,637,leaf,294,280,491,457
+img673.jpg,960,637,leaf,523,297,597,505
+img673.jpg,960,637,leaf,423,164,534,274
+img673.jpg,960,637,leaf,616,284,709,514
+img673.jpg,960,637,leaf,709,222,827,484
+img679.jpg,1300,957,leaf,510,378,745,569
+img679.jpg,1300,957,leaf,738,270,876,507
+img679.jpg,1300,957,leaf,746,505,951,652
+img679.jpg,1300,957,leaf,191,308,322,563
+img676.jpg,552,368,leaf,268,137,410,317
+img676.jpg,552,368,leaf,3,137,92,247
+img681.jpg,1300,953,leaf,385,64,710,828
+img681.jpg,1300,953,leaf,609,220,1162,701
+img682.jpg,450,320,leaf,243,171,392,298
+img675.jpg,400,600,leaf,18,195,43,229
+img675.jpg,400,600,leaf,164,179,196,219
+img674.jpg,1300,956,leaf,438,241,676,511
+img674.jpg,1300,956,leaf,793,213,1032,454
+img680.jpg,450,320,leaf,186,97,259,248
+img680.jpg,450,320,leaf,245,94,320,245
+img680.jpg,450,320,leaf,302,46,364,151
+img677.jpg,800,533,leaf,1,290,378,479
+img677.jpg,800,533,leaf,227,105,583,284
+img678.jpg,500,375,leaf,182,164,404,375
+img678.jpg,500,375,leaf,20,149,174,342
+img678.jpg,500,375,leaf,92,10,228,140
+img678.jpg,500,375,leaf,1,34,58,109
+img678.jpg,500,375,leaf,314,37,430,168
+img678.jpg,500,375,leaf,214,75,342,185
+img683.jpg,1023,682,leaf,208,128,527,377
+img683.jpg,1023,682,leaf,167,417,485,639
+img683.jpg,1023,682,leaf,574,113,772,451
+img683.jpg,1023,682,leaf,326,50,516,195
+img687.jpg,608,342,leaf,205,41,462,315
+img692.jpg,800,600,leaf,191,158,411,343
+img692.jpg,800,600,leaf,309,322,533,556
+img692.jpg,800,600,leaf,500,130,691,293
+img692.jpg,800,600,leaf,536,292,661,504
+img692.jpg,800,600,leaf,281,92,500,189
+img691.jpg,1920,1080,leaf,550,203,1174,979
+img691.jpg,1920,1080,leaf,1407,260,1853,590
+img691.jpg,1920,1080,leaf,19,765,411,1078
+img689.jpg,728,410,leaf,190,308,270,349
+img689.jpg,728,410,leaf,438,323,546,374
+img690.jpg,1280,858,leaf,329,213,644,687
+img690.jpg,1280,858,leaf,147,5,568,263
+img690.jpg,1280,858,leaf,422,395,711,803
+img690.jpg,1280,858,leaf,555,413,803,828
+img690.jpg,1280,858,leaf,800,320,1085,632
+img690.jpg,1280,858,leaf,613,105,861,354
+img688.jpg,608,342,leaf,71,125,117,181
+img688.jpg,608,342,leaf,235,23,280,86
+img688.jpg,608,342,leaf,415,4,449,57
+img685.jpg,1023,682,leaf,556,235,775,641
+img685.jpg,1023,682,leaf,610,124,772,260
+img684.jpg,608,342,leaf,121,5,373,211
+img686.jpg,1023,682,leaf,167,74,878,589
+img693.jpg,302,167,Fruit waste,81,11,273,157
+img697.jpg,275,183,Fruit waste,13,37,260,147
+img700.jpg,279,181,Fruit waste,34,21,230,172
+img698.jpg,259,194,Fruit waste,31,31,245,183
+img695.jpg,285,177,Fruit waste,36,11,264,166
+img702.jpg,318,159,Fruit waste,35,5,290,151
+img701.jpg,299,168,Fruit waste,42,3,278,155
+img694.jpg,299,169,Fruit waste,12,14,275,146
+img696.jpg,261,193,Fruit waste,16,39,240,167
+img699.jpg,275,183,Fruit waste,50,4,261,159
+img703.jpg,311,162,Fruit waste,19,15,297,142
+img709.jpg,275,183,Fruit waste,16,15,246,170
+img710.jpg,275,183,Fruit waste,12,37,263,154
+img712.jpg,265,190,Fruit waste,18,11,247,161
+img708.jpg,391,129,Fruit waste,100,3,302,126
+img706.jpg,304,165,Fruit waste,26,7,273,156
+img711.jpg,259,194,Fruit waste,7,53,252,177
+img705.jpg,192,262,Fruit waste,24,4,177,254
+img704.jpg,291,173,Fruit waste,11,29,275,156
+img707.jpg,281,179,Fruit waste,15,15,266,164
+img713.jpg,300,168,Fruit waste,5,23,295,153
+img720.jpg,275,183,Fruit waste,50,24,211,161
+img718.jpg,277,182,Fruit waste,24,13,264,177
+img719.jpg,225,224,Fruit waste,18,8,210,217
+img717.jpg,275,183,Fruit waste,21,22,263,166
+img722.jpg,275,183,Fruit waste,53,24,226,173
+img715.jpg,349,144,Fruit waste,28,3,330,140
+img714.jpg,276,183,Fruit waste,10,45,266,166
+img721.jpg,300,168,Fruit waste,40,14,258,159
+img716.jpg,250,200,Fruit waste,18,14,230,189
+img723.jpg,201,251,Fruit waste,15,3,188,233
+img724.jpg,302,167,Fruit waste,51,9,273,159
+img729.jpg,275,183,Fruit waste,14,26,263,167
+img730.jpg,279,181,Fruit waste,21,51,255,156
+img728.jpg,318,159,Fruit waste,28,3,299,156
+img727.jpg,319,158,Fruit waste,21,15,308,144
+img731.jpg,192,263,Fruit waste,22,3,181,251
+img726.jpg,240,180,Fruit waste,16,4,232,154
+img725.jpg,275,183,Fruit waste,24,40,263,162
+img732.jpg,245,206,Fruit waste,18,12,225,198
+img733.jpg,300,168,Fruit waste,25,13,279,165
+img736.jpg,254,199,Fruit waste,17,25,226,177
+img740.jpg,190,266,Fruit waste,29,72,151,243
+img741.jpg,275,183,Fruit waste,18,27,253,159
+img735.jpg,194,259,Fruit waste,8,8,188,254
+img738.jpg,281,179,Fruit waste,42,19,237,171
+img739.jpg,259,194,Fruit waste,12,30,249,181
+img737.jpg,260,194,Fruit waste,25,24,239,180
+img742.jpg,318,159,Fruit waste,28,5,294,142
+img734.jpg,311,162,Fruit waste,16,20,293,149
+img743.jpg,291,173,Fruit waste,4,11,281,160
+img745.jpg,291,173,Fruit waste,13,26,276,152
+img748.jpg,276,183,Fruit waste,5,24,270,155
+img749.jpg,259,194,Fruit waste,13,28,247,181
+img752.jpg,262,192,Fruit waste,21,35,243,164
+img750.jpg,261,193,Fruit waste,18,43,242,165
+img747.jpg,220,148,Fruit waste,5,10,212,138
+img746.jpg,275,183,Fruit waste,39,17,249,154
+img744.jpg,275,183,Fruit waste,29,26,242,158
+img751.jpg,300,168,Fruit waste,15,4,291,161
+img753.jpg,275,183,Fruit waste,17,23,249,158
+img756.jpg,274,184,Fruit waste,6,13,264,173
+img758.jpg,197,256,Fruit waste,11,24,191,249
+img757.jpg,275,183,Fruit waste,31,10,205,154
+img760.jpg,240,210,Fruit waste,38,7,224,205
+img754.jpg,281,179,Fruit waste,43,20,226,168
+img762.jpg,259,194,Fruit waste,38,5,209,182
+img759.jpg,262,192,Fruit waste,15,31,252,180
+img755.jpg,276,183,Fruit waste,13,51,265,149
+img761.jpg,300,168,Fruit waste,22,17,269,159
+img763.jpg,259,194,Fruit waste,3,6,247,186
+img770.jpg,275,183,Fruit waste,19,15,247,170
+img766.jpg,275,183,Fruit waste,21,26,237,160
+img764.jpg,264,191,Fruit waste,11,8,255,183
+img765.jpg,286,176,Fruit waste,30,38,252,154
+img772.jpg,225,225,Fruit waste,19,34,202,205
+img769.jpg,298,169,Fruit waste,23,16,288,162
+img771.jpg,274,184,Fruit waste,9,13,264,169
+img768.jpg,297,170,Fruit waste,28,6,292,162
+img767.jpg,259,195,Fruit waste,9,27,249,170
+img773.jpg,225,225,Fruit waste,21,55,197,167
+img778.jpg,277,182,Fruit waste,26,36,254,158
+img779.jpg,275,183,Fruit waste,21,21,248,161
+img780.jpg,262,192,Fruit waste,25,16,239,146
+img774.jpg,274,184,Fruit waste,8,14,263,163
+img775.jpg,212,238,Fruit waste,17,33,204,221
+img776.jpg,291,173,Fruit waste,17,27,277,153
+img781.jpg,246,205,Fruit waste,28,2,225,198
+img782.jpg,222,227,Fruit waste,11,6,213,209
+img777.jpg,275,183,Fruit waste,24,38,259,153
+img783.jpg,275,183,Fruit waste,8,27,263,162
+img786.jpg,276,183,Fruit waste,15,15,254,172
+img789.jpg,289,174,Fruit waste,7,14,280,166
+img785.jpg,274,184,Fruit waste,15,24,266,167
+img788.jpg,274,184,Fruit waste,47,25,240,158
+img792.jpg,275,183,Fruit waste,44,24,219,164
+img791.jpg,293,172,Fruit waste,8,5,282,170
+img784.jpg,275,183,Fruit waste,22,6,261,172
+img790.jpg,212,238,Fruit waste,14,8,177,233
+img787.jpg,169,298,Fruit waste,20,9,151,286
+img793.jpg,275,183,Fruit waste,20,44,272,166
+img802.jpg,241,160,Fruit waste,37,32,177,131
+img801.jpg,265,190,Fruit waste,46,35,194,140
+img796.jpg,217,232,Fruit waste,34,20,177,204
+img800.jpg,197,256,Fruit waste,39,34,165,223
+img795.jpg,197,256,Fruit waste,49,49,146,172
+img798.jpg,198,255,Fruit waste,52,53,146,178
+img797.jpg,177,284,Fruit waste,8,56,170,225
+img799.jpg,198,255,Fruit waste,30,43,173,203
+img794.jpg,264,191,Fruit waste,11,20,251,179
+img803.jpg,177,285,Fruit waste,40,58,151,199
+img806.jpg,275,183,Fruit waste,84,10,186,163
+img804.jpg,194,260,Fruit waste,27,23,162,239
+img811.jpg,185,272,Fruit waste,16,58,171,254
+img807.jpg,198,255,Fruit waste,29,13,181,229
+img812.jpg,188,268,Fruit waste,26,22,160,232
+img805.jpg,223,226,Fruit waste,54,26,181,187
+img808.jpg,204,247,Fruit waste,52,52,152,181
+img809.jpg,168,301,Fruit waste,24,27,140,248
+img810.jpg,191,264,Fruit waste,29,41,167,195
+img813.jpg,221,228,Fruit waste,45,20,176,198
+img814.jpg,182,276,Fruit waste,22,19,176,220
+img822.jpg,177,285,Fruit waste,81,41,148,119
+img818.jpg,217,232,Fruit waste,47,10,167,199
+img820.jpg,183,275,Fruit waste,20,50,172,260
+img816.jpg,258,160,Fruit waste,159,16,237,141
+img821.jpg,201,251,Fruit waste,21,30,145,225
+img817.jpg,276,183,Fruit waste,64,17,187,162
+img815.jpg,275,183,Fruit waste,78,31,210,168
+img819.jpg,213,237,Fruit waste,35,16,178,198
+img823.jpg,262,192,Fruit waste,84,26,174,156
+img825.jpg,183,276,Fruit waste,42,96,151,226
+img829.jpg,264,191,Fruit waste,34,11,171,171
+img827.jpg,194,259,Fruit waste,53,87,130,210
+img824.jpg,255,198,Fruit waste,106,26,213,144
+img826.jpg,202,249,Fruit waste,28,29,179,212
+img830.jpg,183,275,Fruit waste,15,20,180,257
+img828.jpg,206,244,Fruit waste,1,1,206,216
+img832.jpg,217,232,Fruit waste,12,44,199,184
+img831.jpg,194,259,Fruit waste,76,73,188,184
+img833.jpg,275,183,Fruit waste,71,25,211,172
+img840.jpg,217,232,Fruit waste,41,35,177,189
+img837.jpg,177,285,Fruit waste,20,56,171,239
+img839.jpg,191,264,Fruit waste,21,14,169,220
+img841.jpg,208,242,Fruit waste,21,21,163,216
+img838.jpg,183,275,Fruit waste,21,59,155,227
+img842.jpg,217,232,Fruit waste,48,26,178,183
+img834.jpg,217,232,Fruit waste,16,25,186,209
+img835.jpg,275,183,Fruit waste,24,11,247,174
+img836.jpg,206,245,Fruit waste,19,16,199,212
+img843.jpg,210,240,Fruit waste,25,12,186,222
+img849.jpg,177,285,Fruit waste,31,82,151,223
+img844.jpg,214,236,Fruit waste,18,17,195,222
+img846.jpg,213,237,Fruit waste,17,21,204,216
+img851.jpg,262,192,Fruit waste,89,12,189,158
+img848.jpg,222,227,Fruit waste,35,19,200,216
+img850.jpg,262,192,Fruit waste,24,8,148,166
+img852.jpg,275,183,Fruit waste,46,37,206,150
+img845.jpg,208,160,Fruit waste,43,44,105,135
+img847.jpg,207,244,Fruit waste,26,38,169,195
+img853.jpg,177,285,Fruit waste,16,38,155,229
+img857.jpg,198,255,Fruit waste,33,43,173,208
+img860.jpg,183,275,Fruit waste,11,17,158,237
+img855.jpg,212,238,Fruit waste,36,38,182,194
+img856.jpg,241,160,Fruit waste,19,2,137,158
+img854.jpg,299,168,Fruit waste,99,11,189,149
+img861.jpg,163,310,Fruit waste,24,75,141,191
+img859.jpg,249,202,Fruit waste,38,17,205,166
+img862.jpg,183,275,Fruit waste,20,45,161,230
+img858.jpg,237,213,Fruit waste,37,23,207,189
+img863.jpg,206,245,Fruit waste,17,22,198,206
+img866.jpg,197,256,Fruit waste,49,47,150,175
+img868.jpg,183,275,Fruit waste,32,40,158,232
+img870.jpg,177,285,Fruit waste,29,19,149,245
+img869.jpg,259,194,Fruit waste,80,70,168,172
+img872.jpg,205,246,Fruit waste,3,2,204,246
+img871.jpg,248,204,Fruit waste,48,23,191,184
+img865.jpg,258,195,Fruit waste,58,16,195,176
+img867.jpg,209,241,Fruit waste,21,28,194,217
+img864.jpg,252,200,Fruit waste,17,26,118,149
+img864.jpg,252,200,Fruit waste,140,20,229,151
+img873.jpg,262,192,Fruit waste,73,30,186,153
+img876.jpg,230,219,Fruit waste,70,19,171,201
+img881.jpg,230,219,Fruit waste,70,19,165,202
+img882.jpg,156,160,Fruit waste,17,7,144,138
+img874.jpg,212,238,Fruit waste,50,41,152,175
+img878.jpg,217,232,Fruit waste,43,30,165,179
+img879.jpg,275,183,Fruit waste,92,13,181,141
+img880.jpg,225,225,Fruit waste,47,13,177,195
+img877.jpg,183,275,Fruit waste,18,53,161,256
+img875.jpg,275,183,Fruit waste,100,27,197,165
+img883.jpg,241,160,Fruit waste,76,7,160,143
+img891.jpg,193,261,Fruit waste,35,28,168,198
+img887.jpg,222,227,Fruit waste,26,19,185,217
+img888.jpg,185,272,Fruit waste,34,20,146,233
+img890.jpg,275,183,Fruit waste,114,8,256,169
+img884.jpg,221,228,Fruit waste,25,12,204,199
+img892.jpg,193,261,Fruit waste,31,33,167,203
+img885.jpg,196,257,Fruit waste,21,27,144,227
+img886.jpg,206,244,Fruit waste,17,58,170,207
+img889.jpg,204,248,Fruit waste,48,45,154,194
+img893.jpg,261,193,Fruit waste,34,11,166,169
+img895.jpg,196,257,Fruit waste,3,4,193,236
+img897.jpg,276,183,paper,2,3,275,176
+img896.jpg,259,194,paper,1,1,257,186
+img894.jpg,217,232,Fruit waste,34,13,187,204
+img901.jpg,225,225,paper,27,29,207,184
+img898.jpg,275,183,paper,3,2,274,178
+img900.jpg,259,194,paper,42,15,210,172
+img902.jpg,268,188,paper,7,73,119,181
+img902.jpg,268,188,paper,95,48,168,131
+img902.jpg,268,188,paper,180,37,254,100
+img899.jpg,275,183,paper,120,24,250,142
+img903.jpg,273,185,paper,82,42,236,166
+img908.jpg,265,190,paper,77,34,185,150
+img905.jpg,216,233,paper,8,27,204,210
+img910.jpg,256,197,paper,20,54,112,145
+img910.jpg,256,197,paper,105,13,199,92
+img910.jpg,256,197,paper,117,98,231,182
+img912.jpg,259,194,paper,32,18,210,176
+img906.jpg,243,207,paper,28,1,226,173
+img904.jpg,225,225,paper,26,19,199,164
+img911.jpg,275,183,paper,26,94,91,159
+img911.jpg,275,183,paper,76,86,113,126
+img911.jpg,275,183,paper,113,92,164,136
+img911.jpg,275,183,paper,163,91,212,138
+img911.jpg,275,183,paper,96,63,192,92
+img911.jpg,275,183,paper,127,29,177,63
+img909.jpg,275,183,paper,62,18,216,164
+img907.jpg,299,168,paper,13,16,114,121
+img907.jpg,299,168,paper,106,17,185,89
+img907.jpg,299,168,paper,168,69,288,156
+img907.jpg,299,168,paper,195,43,283,107
+img913.jpg,259,194,paper,79,116,106,141
+img913.jpg,259,194,paper,110,127,145,167
+img913.jpg,259,194,paper,113,106,152,133
+img913.jpg,259,194,paper,151,131,177,155
+img913.jpg,259,194,paper,137,159,168,189
+img913.jpg,259,194,paper,168,144,196,175
+img913.jpg,259,194,paper,153,103,188,141
+img913.jpg,259,194,paper,195,129,219,162
+img919.jpg,255,198,paper,3,3,255,191
+img921.jpg,284,177,paper,21,14,65,55
+img921.jpg,284,177,paper,68,27,109,65
+img921.jpg,284,177,paper,76,73,155,114
+img921.jpg,284,177,paper,170,64,248,114
+img914.jpg,275,183,paper,2,2,274,176
+img918.jpg,216,233,paper,15,9,201,198
+img916.jpg,256,197,paper,102,22,250,172
+img915.jpg,256,197,paper,29,1,237,180
+img920.jpg,265,190,paper,1,1,260,167
+img922.jpg,275,183,paper,73,20,205,156
+img917.jpg,262,192,paper,1,1,262,171
+img923.jpg,275,183,paper,46,30,214,149
+img930.jpg,229,220,paper,20,6,205,204
+img926.jpg,194,260,paper,82,148,157,203
+img932.jpg,192,263,paper,8,85,43,129
+img932.jpg,192,263,paper,43,24,91,66
+img932.jpg,192,263,paper,79,35,109,86
+img932.jpg,192,263,paper,93,14,155,56
+img932.jpg,192,263,paper,124,173,179,216
+img932.jpg,192,263,paper,9,170,60,219
+img932.jpg,192,263,paper,10,207,76,251
+img932.jpg,192,263,paper,127,217,162,255
+img924.jpg,218,231,paper,1,1,216,213
+img927.jpg,216,233,paper,31,38,180,180
+img929.jpg,259,194,paper,74,15,166,157
+img928.jpg,216,233,paper,42,35,175,176
+img931.jpg,275,183,paper,63,39,187,119
+img925.jpg,275,183,paper,1,1,271,168
+img933.jpg,263,192,paper,69,58,146,135
+img934.jpg,234,215,paper,110,47,131,72
+img934.jpg,234,215,paper,66,135,113,174
+img934.jpg,234,215,paper,91,94,110,116
+img934.jpg,234,215,paper,33,155,54,176
+img934.jpg,234,215,paper,107,90,121,106
+img934.jpg,234,215,paper,7,144,22,160
+img934.jpg,234,215,paper,112,106,129,123
+img934.jpg,234,215,paper,121,87,132,104
+img934.jpg,234,215,paper,88,49,103,68
+img934.jpg,234,215,paper,89,75,102,93
+img940.jpg,243,208,paper,2,5,234,194
+img935.jpg,216,233,paper,32,38,183,179
+img938.jpg,184,273,paper,14,45,184,253
+img939.jpg,276,183,paper,114,30,168,106
+img939.jpg,276,183,paper,168,7,212,89
+img939.jpg,276,183,paper,29,95,85,146
+img939.jpg,276,183,paper,15,51,77,97
+img939.jpg,276,183,paper,120,106,164,154
+img939.jpg,276,183,paper,156,80,200,126
+img942.jpg,232,217,paper,26,25,197,186
+img936.jpg,275,183,paper,81,54,188,137
+img937.jpg,284,178,paper,83,32,110,57
+img937.jpg,284,178,paper,72,93,94,112
+img937.jpg,284,178,paper,143,75,169,106
+img937.jpg,284,178,paper,183,84,201,110
+img937.jpg,284,178,paper,13,99,33,122
+img937.jpg,284,178,paper,32,22,50,45
+img937.jpg,284,178,paper,24,150,49,177
+img937.jpg,284,178,paper,239,38,259,59
+img937.jpg,284,178,paper,203,79,224,99
+img937.jpg,284,178,paper,239,69,257,90
+img937.jpg,284,178,paper,177,9,212,44
+img937.jpg,284,178,paper,224,8,243,27
+img937.jpg,284,178,paper,122,8,147,31
+img937.jpg,284,178,paper,154,41,173,62
+img941.jpg,259,195,paper,32,19,192,182
+img943.jpg,225,225,paper,1,73,225,188
+img945.jpg,210,240,paper,4,14,202,228
+img949.jpg,253,199,paper,3,19,86,150
+img949.jpg,253,199,paper,77,20,168,107
+img949.jpg,253,199,paper,147,52,247,188
+img948.jpg,217,232,paper,12,16,200,201
+img946.jpg,300,168,paper,13,22,129,148
+img951.jpg,177,285,paper,11,82,43,129
+img951.jpg,177,285,paper,8,162,72,236
+img951.jpg,177,285,paper,116,205,147,240
+img951.jpg,177,285,paper,78,19,139,57
+img951.jpg,177,285,paper,40,33,74,65
+img951.jpg,177,285,paper,71,54,104,88
+img951.jpg,177,285,paper,123,166,164,206
+img947.jpg,225,225,paper,5,21,221,207
+img952.jpg,216,233,paper,42,53,173,164
+img944.jpg,275,183,paper,10,94,29,113
+img944.jpg,275,183,paper,23,118,40,145
+img944.jpg,275,183,paper,75,104,97,151
+img944.jpg,275,183,paper,97,147,121,169
+img944.jpg,275,183,paper,128,140,150,164
+img944.jpg,275,183,paper,120,116,140,142
+img950.jpg,249,203,paper,6,92,49,140
+img950.jpg,249,203,paper,47,48,200,161
+img950.jpg,249,203,paper,11,21,51,75
+img950.jpg,249,203,paper,56,12,101,48
+img950.jpg,249,203,paper,149,11,188,46
+img950.jpg,249,203,paper,206,121,243,166
+img950.jpg,249,203,paper,202,60,240,94
+img950.jpg,249,203,paper,188,21,239,60
+img953.jpg,198,255,paper,15,14,169,236
+img959.jpg,284,177,paper,22,14,61,51
+img959.jpg,284,177,paper,69,26,111,68
+img959.jpg,284,177,paper,169,66,247,115
+img959.jpg,284,177,paper,76,73,155,115
+img960.jpg,262,192,paper,80,90,114,121
+img960.jpg,262,192,paper,108,119,149,158
+img960.jpg,262,192,paper,156,77,184,109
+img960.jpg,262,192,paper,178,103,216,136
+img960.jpg,262,192,paper,150,111,179,146
+img960.jpg,262,192,paper,129,53,161,85
+img961.jpg,225,225,paper,15,17,212,208
+img954.jpg,275,183,paper,108,149,133,172
+img954.jpg,275,183,paper,133,144,147,165
+img954.jpg,275,183,paper,152,149,179,169
+img954.jpg,275,183,paper,186,146,210,173
+img954.jpg,275,183,paper,45,47,121,64
+img958.jpg,266,189,paper,24,58,106,122
+img958.jpg,266,189,paper,139,41,234,134
+img955.jpg,275,183,paper,90,148,125,174
+img955.jpg,275,183,paper,164,132,193,168
+img955.jpg,275,183,paper,193,147,223,172
+img962.jpg,240,160,paper,10,46,111,111
+img962.jpg,240,160,paper,111,56,210,132
+img956.jpg,215,235,paper,2,2,211,222
+img957.jpg,275,183,paper,7,81,56,114
+img957.jpg,275,183,paper,35,4,76,46
+img957.jpg,275,183,paper,76,36,147,140
+img963.jpg,263,192,paper,182,103,218,138
+img963.jpg,263,192,paper,20,28,50,63
+img963.jpg,263,192,paper,157,52,189,86
+img963.jpg,263,192,paper,125,121,163,160
+img963.jpg,263,192,paper,186,27,218,63
+img971.jpg,284,177,paper,62,15,145,83
+img971.jpg,284,177,paper,42,76,122,128
+img971.jpg,284,177,paper,108,127,140,157
+img971.jpg,284,177,paper,120,102,157,127
+img971.jpg,284,177,paper,147,36,229,75
+img971.jpg,284,177,paper,149,75,209,118
+img971.jpg,284,177,paper,161,124,197,157
+img964.jpg,177,285,paper,18,221,62,268
+img964.jpg,177,285,paper,85,226,146,264
+img965.jpg,312,161,paper,13,79,60,138
+img965.jpg,312,161,paper,61,28,250,142
+img965.jpg,312,161,paper,252,40,300,87
+img965.jpg,312,161,paper,258,119,301,152
+img965.jpg,312,161,paper,232,10,296,43
+img970.jpg,259,195,paper,143,16,176,52
+img970.jpg,259,195,paper,121,53,173,98
+img970.jpg,259,195,paper,114,101,160,137
+img970.jpg,259,195,paper,160,105,213,166
+img970.jpg,259,195,paper,181,50,247,103
+img972.jpg,184,274,paper,8,160,66,237
+img972.jpg,184,274,paper,14,73,49,119
+img972.jpg,184,274,paper,47,18,87,53
+img972.jpg,184,274,paper,41,206,81,246
+img972.jpg,184,274,paper,84,42,118,78
+img972.jpg,184,274,paper,137,156,181,191
+img972.jpg,184,274,paper,93,5,153,48
+img967.jpg,223,226,paper,12,23,73,86
+img967.jpg,223,226,paper,24,94,57,144
+img967.jpg,223,226,paper,41,140,74,188
+img967.jpg,223,226,paper,93,147,129,185
+img967.jpg,223,226,paper,81,23,115,85
+img967.jpg,223,226,paper,179,63,216,111
+img968.jpg,262,192,paper,80,126,107,158
+img968.jpg,262,192,paper,114,122,133,155
+img968.jpg,262,192,paper,53,98,91,120
+img968.jpg,262,192,paper,178,144,201,172
+img968.jpg,262,192,paper,100,94,119,114
+img968.jpg,262,192,paper,156,148,179,174
+img969.jpg,265,190,paper,55,8,211,155
+img966.jpg,263,192,paper,44,70,122,143
+img966.jpg,263,192,paper,136,69,219,159
+img973.jpg,300,168,paper,51,12,242,158
+img981.jpg,262,192,paper,87,72,130,120
+img981.jpg,262,192,paper,135,101,170,128
+img981.jpg,262,192,paper,171,105,194,150
+img981.jpg,262,192,paper,196,106,240,145
+img978.jpg,262,193,paper,98,92,171,142
+img978.jpg,262,193,paper,116,50,212,97
+img979.jpg,264,191,paper,219,47,261,91
+img979.jpg,264,191,paper,157,2,198,43
+img979.jpg,264,191,paper,206,1,264,36
+img975.jpg,275,183,paper,71,42,180,145
+img982.jpg,302,167,paper,94,32,212,146
+img976.jpg,301,167,paper,89,32,207,143
+img977.jpg,259,194,paper,82,44,179,125
+img974.jpg,275,183,paper,11,82,53,132
+img974.jpg,275,183,paper,59,81,104,124
+img974.jpg,275,183,paper,104,76,152,133
+img974.jpg,275,183,paper,159,82,205,124
+img974.jpg,275,183,paper,213,81,265,128
+img980.jpg,259,194,paper,62,39,215,175
+img983.jpg,177,285,paper,1,144,58,191
+img983.jpg,177,285,paper,12,86,65,129
+img992.jpg,299,168,paper,61,36,189,142
+img989.jpg,300,168,paper,31,22,101,68
+img989.jpg,300,168,paper,97,64,148,107
+img989.jpg,300,168,paper,188,62,264,127
+img989.jpg,300,168,paper,54,93,131,157
+img989.jpg,300,168,paper,100,35,162,64
+img989.jpg,300,168,paper,163,7,232,75
+img989.jpg,300,168,paper,220,2,274,63
+img984.jpg,301,167,paper,91,31,215,146
+img985.jpg,284,178,paper,34,107,97,150
+img985.jpg,284,178,paper,98,109,156,153
+img985.jpg,284,178,paper,182,119,221,159
+img985.jpg,284,178,paper,154,70,208,116
+img988.jpg,225,225,paper,9,23,217,203
+img990.jpg,265,190,paper,170,87,251,158
+img987.jpg,275,183,paper,102,49,181,128
+img986.jpg,216,233,paper,2,11,123,99
+img986.jpg,216,233,paper,7,119,120,208
+img986.jpg,216,233,paper,123,3,215,101
+img986.jpg,216,233,paper,99,104,208,207
+img991.jpg,300,168,paper,53,101,109,141
+img991.jpg,300,168,paper,114,71,178,136
+img991.jpg,300,168,paper,146,17,209,71
+img991.jpg,300,168,paper,180,71,271,136
+img991.jpg,300,168,paper,88,35,138,103
+img993.jpg,259,194,paper,76,28,208,182
+img997.jpg,275,183,paper,2,2,268,173
+img998.jpg,275,183,paper,3,2,272,175
+img999.jpg,275,183,paper,2,1,271,174
+img995.jpg,263,192,paper,46,17,216,149
+img996.jpg,275,183,paper,2,2,272,174
+img.jpg,360,240,Fruit waste,50,31,303,209
+img994.jpg,259,194,paper,115,1,255,135
+img1000.jpg,275,183,paper,1,1,272,183
